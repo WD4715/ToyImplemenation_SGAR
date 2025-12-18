@@ -1,0 +1,354 @@
+[
+  {
+    "id": "01369",
+    "caption": "A Person doing a tennis racket like movement#A/DET person/NOUN do/VERB a/DET tennis/NOUN racket/NOUN like/SCONJ movement/NOUN#0.0#0.0\nA person slaps with his left hand.#A/DET person/NOUN slap/VERB with/ADP his/DET left/ADJ hand/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Bending at the elbow and holding a tennis racket with an open palm",
+      "left_arm": "Relaxed at the side of the body",
+      "right_leg": "Slightly bent, ready to step forward",
+      "left_leg": "Bent at the knee and slightly lifted, preparing for a lunge",
+      "torso": "Leaning slightly forward, core engaged for balance"
+    }
+  },
+  {
+    "id": "01006",
+    "caption": "a person is walking forward and doing a left u-turn and walks back#a/DET person/NOUN is/AUX walk/VERB forward/ADV and/CCONJ do/VERB a/DET left/ADJ uturn/NOUN and/CCONJ walk/VERB back/ADV#0.0#0.0\nA person takes two foward steps, turns around 180 degrees and returns to the initial standing position.#A/DET person/NOUN take/VERB two/NUM foward/ADJ step/NOUN turn/VERB around/ADV degree/NOUN and/CCONJ return/NOUN to/ADP the/DET initial/ADJ standing/NOUN position/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Bending at elbow for turn, then swinging behind back",
+      "right_leg": "Stepping forward, then back",
+      "left_leg": "Stepping forward, then pivoting and stepping back",
+      "torso": "Leaning slightly left during turn, then returning to neutral position"
+    }
+  },
+  {
+    "id": "03290",
+    "caption": "A human turns 360° leftwards while jumping in the air.#A/DET human/NOUN turn/VERB leftward/NOUN while/SCONJ jump/VERB in/ADP the/DET air/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging out to the side",
+      "left_arm": "Swinging around at the back",
+      "right_leg": "Raised and bent at the knee, swinging back",
+      "left_leg": "Raised and bent at the knee, swinging around",
+      "torso": "Twisting and turning leftwards"
+    }
+  },
+  {
+    "id": "01123",
+    "caption": "A person performs a sluggish step to the left.#A/DET person/NOUN perform/VERB a/DET sluggish/ADJ step/NOUN to/ADP the/DET left/NOUN#0.0#0.0\nA person takes a wide lunge to the left and keeps his balance by using both arms.#A/DET person/NOUN take/VERB a/DET wide/ADJ lunge/NOUN to/ADP the/DET left/NOUN and/CCONJ keep/VERB his/DET balance/NOUN by/ADP use/VERB both/DET arm/NOUN#0.0#0.0\nSomeone gets puched away from its right and trips to its left.#Someone/PRON get/VERB puche/VERB away/ADV from/ADP its/DET right/NOUN and/CCONJ trip/VERB to/ADP its/DET left/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at the side",
+      "left_arm": "Swinging slowly backward",
+      "right_leg": "Moving slowly to the right",
+      "left_leg": "Advancing slowly to the left",
+      "torso": "Leaning slightly to the left"
+    }
+  },
+  {
+    "id": "01794",
+    "caption": "A person walks straight, recovers from a hard pushed from the left, and returns to the original path.#A/DET person/NOUN walk/VERB straight/ADV recover/NOUN from/ADP a/DET hard/ADJ push/VERB from/ADP the/DET left/NOUN and/CCONJ return/NOUN to/ADP the/DET original/ADJ path/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at side during walk",
+      "left_arm": "Swings naturally at side during walk, then pushes off to regain balance",
+      "right_leg": "Moves forward in a straight line during walk",
+      "left_leg": "Moves forward in a straight line during walk, then bends to absorb force of push and recovers",
+      "torso": "Maintains upright position during walk, adjusts balance after being pushed"
+    }
+  },
+  {
+    "id": "01177",
+    "caption": "A human walks slowly forward..#A/DET human/ADJ walk/VERB slowly/ADV forward/ADV#0.0#0.0\nThe human walks very slowly#The/DET human/NOUN walk/VERB very/ADV slowly/ADV#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging slowly forward in sync with left arm",
+      "left_arm": "Swinging slowly forward in sync with right arm",
+      "right_leg": "Moving forward with heel touching the ground first",
+      "left_leg": "Moving forward with heel touching the ground first",
+      "torso": "Leaning slightly forward with a straight back"
+    }
+  },
+  {
+    "id": "00170",
+    "caption": "the person is walking backwards#the/DET person/NOUN is/AUX walk/VERB backwards/ADV#0.0#0.0\nA person walkes backward.#A/DET person/NOUN walk/VERB backward/ADV#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging backward to maintain balance",
+      "left_arm": "Swinging backward to maintain balance",
+      "right_leg": "Stepping back with heel, then toe",
+      "left_leg": "Stepping back with heel, then toe",
+      "torso": "Leaning backward, keeping center of gravity over the backward-moving legs"
+    }
+  },
+  {
+    "id": "01407",
+    "caption": "Subject waves with both hands.#Subject/ADJ wave/NOUN with/ADP both/DET hand/NOUN#0.0#0.0\na person waves with both of his hands#a/DET person/NOUN wave/VERB with/ADP both/DET of/ADP his/DET hand/NOUN#0.0#0.0\nA human waves with both hands.#A/DET human/ADJ wave/NOUN with/ADP both/DET hand/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Moving in a waving motion",
+      "left_arm": "Moving in a synchronous waving motion",
+      "right_leg": "Stationary",
+      "left_leg": "Stationary",
+      "torso": "Remains relatively still"
+    }
+  },
+  {
+    "id": "03537",
+    "caption": "A person walks an eight.#A/DET person/NOUN walk/VERB an/DET eight/NUM#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Moving forward with each step",
+      "torso": "Moving forward with a slight bend at waist"
+    }
+  },
+  {
+    "id": "01587",
+    "caption": "A person goes four and a half steps forward while looking at their feet.#A/DET person/NOUN go/VERB four/NUM and/CCONJ a/DET half/NOUN step/NOUN forward/ADV while/SCONJ look/VERB at/ADP their/DET foot/NOUN#0.0#0.0\nThe human walks a couple of steps#The/DET human/NOUN walk/VERB a/DET couple/NOUN of/ADP step/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Moving forward with each step",
+      "torso": "Leaning slightly forward while looking at feet"
+    }
+  },
+  {
+    "id": "01299",
+    "caption": "A person performs a punching motion.#A/DET person/NOUN perform/VERB a/DET punching/NOUN motion/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Moves forward and up in a punching motion",
+      "left_arm": "Remains at side or protects the face",
+      "right_leg": "Stands stable and firm on the ground",
+      "left_leg": "Stands stable and firm on the ground",
+      "torso": "Twists and rotates slightly towards the punching direction"
+    }
+  },
+  {
+    "id": "00143",
+    "caption": "A person turns 90° to the left at medium speed.#A/DET person/NOUN turn/VERB to/ADP the/DET left/NOUN at/ADP medium/ADJ speed/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swings out to the side and slightly behind the body",
+      "left_arm": "Swings in front of the body and across the abdomen",
+      "right_leg": "Pivots to the left, bending at the knee and hip",
+      "left_leg": "Stays planted and provides stability during the turn",
+      "torso": "Twists to the left, keeping the core engaged for balance"
+    }
+  },
+  {
+    "id": "01655",
+    "caption": "A person is standing straight upright with their arms streched out sideways.#A/DET person/NOUN is/AUX stand/VERB straight/ADV upright/ADV with/ADP their/DET arm/NOUN streche/VERB out/ADP sideways/ADV#0.0#0.0\nhuman stands with its arm being streched out sideways#human/ADJ stand/VERB with/ADP its/DET arm/NOUN being/AUX streche/VERB out/ADP sideways/ADV#0.0#0.0\nA human is balancing with its hands streched out, in a static position.#A/DET human/NOUN is/AUX balance/VERB with/ADP its/DET hand/NOUN streche/VERB out/ADP in/ADP a/DET static/ADJ position/NOUN#0.0#0.0\na person has both arms raised to both side like wings#a/DET person/NOUN has/AUX both/DET arm/NOUN raise/VERB to/ADP both/DET side/NOUN like/SCONJ wing/NOUN#0.0#0.0\nA person holds his arms on the height of his shoulders.#A/DET person/NOUN hold/VERB his/DET arm/NOUN on/ADP the/DET height/NOUN of/ADP his/DET shoulder/NOUN#0.0#0.0\nA person is balancing while holding out his arms#A/DET person/NOUN is/AUX balance/VERB while/SCONJ hold/VERB out/ADP his/DET arm/NOUN#0.0#0.0\nSomeone stands with his arms raised to the side.#Someone/PRON stand/VERB with/ADP his/DET arm/NOUN raise/VERB to/ADP the/DET side/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "extended straight to the sides",
+      "left_arm": "extended straight to the sides",
+      "right_leg": "straight and slightly bent at the knee",
+      "left_leg": "straight and slightly bent at the knee",
+      "torso": "upright and straight"
+    }
+  },
+  {
+    "id": "03009",
+    "caption": "A person uses an axe.#A/DET person/NOUN use/VERB an/DET axe/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Holds the axe with a firm grip",
+      "left_arm": "Remains free to maintain balance",
+      "right_leg": "Stands firmly on the ground",
+      "left_leg": "Supports the body and maintains balance",
+      "torso": "Bends slightly forward to apply force"
+    }
+  },
+  {
+    "id": "00964",
+    "caption": "A person walks forward.#A/DET person/NOUN walk/VERB forward/ADV#0.0#0.0\nPerson walking forwards#person/NOUN walk/VERB forwards/ADV#0.0#0.0\nA person makes 5 steps forward.#A/DET person/NOUN make/VERB step/NOUN forward/ADV#0.0#0.0\na person walks forwards and stops after a few meters#a/DET person/NOUN walk/VERB forwards/ADJ and/CCONJ stop/NOUN after/ADP a/DET few/ADJ meter/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward",
+      "left_leg": "Moving forward",
+      "torso": "Moving forward"
+    }
+  },
+  {
+    "id": "03419",
+    "caption": "A person is slowly walking forward with the arms swinging a bit.#A/DET person/NOUN is/AUX slowly/ADV walk/VERB forward/ADV with/ADP the/DET arm/NOUN swinge/VERB a/DET bit/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Moving in a swinging motion",
+      "left_arm": "Moving in a swinging motion",
+      "right_leg": "Stepping forward slowly",
+      "left_leg": "Stepping forward slowly",
+      "torso": "Maintaining an upright position"
+    }
+  },
+  {
+    "id": "03276",
+    "caption": "A person jumps forward.#A/DET person/NOUN jump/VERB forward/ADV#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swings forward for balance",
+      "left_arm": "Swings forward for momentum",
+      "right_leg": "Bends at the knee and pushes off the ground",
+      "left_leg": "Bends at the knee and swings forward",
+      "torso": "Leans slightly forward before jumping"
+    }
+  },
+  {
+    "id": "00271",
+    "caption": "A subject is walking backward four steps.#A/DET subject/NOUN is/AUX walk/VERB backward/ADJ four/NUM step/NOUN#0.0#0.0\nA person is walking backwards#A/DET person/NOUN is/AUX walk/VERB backwards/ADV#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging backward to maintain balance",
+      "left_arm": "Swinging backward to maintain balance",
+      "right_leg": "Stepping back with heel, then toe",
+      "left_leg": "Stepping back with heel, then toe",
+      "torso": "Leaning backward while lifting feet"
+    }
+  },
+  {
+    "id": "00183",
+    "caption": "A person walks in circles.#A/DET person/NOUN walk/VERB in/ADP circle/NOUN#0.0#0.0\nA person walks forward counterclockwise in a circle#A/DET person/NOUN walk/VERB forward/ADV counterclockwise/NOUN in/ADP a/DET circle/NOUN#0.0#0.0\na person walks in a circle to the left#a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN to/ADP the/DET left/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Stepping forward and then back",
+      "left_leg": "Stepping forward and then back",
+      "torso": "Rotating in a circular motion"
+    }
+  },
+  {
+    "id": "02940",
+    "caption": "A human crouches down and searches the floor around her current location.#A/DET human/ADJ crouch/NOUN down/ADV and/CCONJ search/VERB the/DET floor/NOUN around/ADP her/DET current/ADJ location/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow and resting on the knee",
+      "left_arm": "Hanging loosely at the side",
+      "right_leg": "Bent at the knee and touching the ground",
+      "left_leg": "Bent at the knee and slightly off the ground",
+      "torso": "Leaning forward with rounded back"
+    }
+  },
+  {
+    "id": "00068",
+    "caption": "Someone walks a right circle.#Someone/PRON walk/VERB a/DET right/ADJ circle/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then back in a circular motion",
+      "left_arm": "Swings opposite to right arm in a circular motion",
+      "right_leg": "Moves in a circular path to the right",
+      "left_leg": "Moves in a circular path to the left",
+      "torso": "Rotates in a circular motion, pivoting on the legs"
+    }
+  },
+  {
+    "id": "03155",
+    "caption": "A person shakes the bent arms and the head like an eating chicken.#A/DET person/NOUN shake/VERB the/DET bent/ADJ arm/NOUN and/CCONJ the/DET head/NOUN like/SCONJ an/DET eat/VERB chicken/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Bent and shaken in a chicken-like motion",
+      "left_arm": "Bent and shaken in a chicken-like motion",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Head shaken side to side like a chicken"
+    }
+  },
+  {
+    "id": "01995",
+    "caption": "A person is walking forward then making a sharp turn.#A/DET person/NOUN is/AUX walk/VERB forward/ADV then/ADV make/VERB a/DET sharp/ADJ turn/NOUN#0.0#0.0\na person walks a few steps forward then turns right 180 degrees and walks some more steps#a/DET person/NOUN walk/VERB a/DET few/ADJ step/NOUN forward/ADV then/ADV turn/VERB right/ADJ degree/NOUN and/CCONJ walk/VERB some/DET more/ADJ step/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging forward and then bending at the elbow to balance during the turn",
+      "left_arm": "Swinging forward and then bending at the elbow to balance during the turn",
+      "right_leg": "Stepping forward and then pivoting on the ball of the foot during the turn",
+      "left_leg": "Stepping forward and then pivoting on the ball of the foot during the turn",
+      "torso": "Twisting and leaning in the direction of the turn"
+    }
+  },
+  {
+    "id": "03682",
+    "caption": "a human runs forward#a/DET human/ADJ run/NOUN forward/ADV#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging forward for balance",
+      "left_arm": "Swinging forward for momentum",
+      "right_leg": "Pushing off the ground",
+      "left_leg": "Bending and swinging forward",
+      "torso": "Leaning slightly forward"
+    }
+  },
+  {
+    "id": "00764",
+    "caption": "A person walks a quarter circle clockwise with 4 steps.#A/DET person/NOUN walk/VERB a/DET quarter/NOUN circle/NOUN clockwise/NOUN with/ADP step/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then backward with each step",
+      "left_arm": "Swings opposite to right arm with each step",
+      "right_leg": "Moves forward and then back, bending at the knee",
+      "left_leg": "Moves forward and then back, bending at the knee",
+      "torso": "Rotates clockwise with each step, maintaining balance"
+    }
+  },
+  {
+    "id": "02184",
+    "caption": "A person raises both arms on the side of his body and moves them back down#A/DET person/NOUN raise/VERB both/DET arm/NOUN on/ADP the/DET side/NOUN of/ADP his/DET body/NOUN and/CCONJ move/VERB them/PRON back/ADV down/ADP#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Raising to the side and then lowering",
+      "left_arm": "Raising to the side and then lowering",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Undefined"
+    }
+  },
+  {
+    "id": "00006",
+    "caption": "A person goes four and half steps forward.#A/DET person/NOUN go/VERB four/NUM and/CCONJ half/ADJ step/NOUN forward/ADV#0.0#0.0\nA person walking forward slightly to the right.#A/DET person/NOUN walk/VERB forward/ADV slightly/ADV to/ADP the/DET right/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Moving forward with each step",
+      "left_arm": "Hanging loosely at sides",
+      "right_leg": "Advancing with each step",
+      "left_leg": "Advancing with each step",
+      "torso": "Maintaining balance and posture"
+    }
+  },
+  {
+    "id": "01503",
+    "caption": "A person wipes two times in a circle on a waist high surface.#A/DET person/NOUN wipe/VERB two/NUM time/NOUN in/ADP a/DET circle/NOUN on/ADP a/DET waist/ADJ high/ADJ surface/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Hangs loosely at the side",
+      "left_arm": "Hangs loosely at the side",
+      "right_leg": "Stands straight",
+      "left_leg": "Stands straight",
+      "torso": "Leans slightly forward, twisting waist in a circular motion"
+    }
+  },
+  {
+    "id": "02499",
+    "caption": "A human walks holding her right upper leg with both hands.#A/DET human/NOUN walk/VERB hold/VERB her/PRON right/ADJ upper/ADJ leg/NOUN with/ADP both/DET hand/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Holding her right upper leg",
+      "left_arm": "Swinging freely at her side",
+      "right_leg": "Holding her right upper leg",
+      "left_leg": "Swinging freely",
+      "torso": "Moving forward with each step"
+    }
+  },
+  {
+    "id": "00733",
+    "caption": "A person is making a sharp turn.#A/DET person/NOUN is/AUX make/VERB a/DET sharp/ADJ turn/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging out to maintain balance",
+      "left_arm": "Swinging inward for support",
+      "right_leg": "Bending at the knee and pushing off",
+      "left_leg": "Bending at the knee and pivoting",
+      "torso": "Twisting to complete the turn"
+    }
+  },
+  {
+    "id": "01118",
+    "caption": "A person stumbling to the left#A/DET person/NOUN stumble/VERB to/ADP the/DET left/NOUN#0.0#0.0\nA person takes a few recovery steps to the left.#A/DET person/NOUN take/VERB a/DET few/ADJ recovery/NOUN step/NOUN to/ADP the/DET left/NOUN#0.0#0.0\nA person steps to his left.#A/DET person/NOUN step/VERB to/ADP his/DET left/NOUN#0.0#0.0\nA person is pushed from the right to the left.#A/DET person/NOUN is/AUX push/VERB from/ADP the/DET right/NOUN to/ADP the/DET left/NOUN#0.0#0.0\nA person stumbling to the left#A/DET person/NOUN stumble/VERB to/ADP the/DET left/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Swinging to maintain balance",
+      "left_arm": "Swinging to regain balance, forward",
+      "right_leg": "Stepping back to prevent falling",
+      "left_leg": "Bending and lifting to stabilize, towards left",
+      "torso": "Leaning to left side, attempting to recover"
+    }
+  },
+  {
+    "id": "02418",
+    "caption": "A human walks backwards with a stoop.#A/DET human/NOUN walk/VERB backwards/ADV with/ADP a/DET stoop/NOUN#0.0#0.0",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow and swinging backward",
+      "left_arm": "Bent at the elbow and swinging backward",
+      "right_leg": "Bent at the knee and stepping backward",
+      "left_leg": "Bent at the knee and stepping backward",
+      "torso": "Leaning forward with a stooped posture"
+    }
+  }
+]

@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "00006",
+    "caption": "A person goes four and half steps forward.",
+    "part_descriptions": {
+      "right_arm": "Moving forward with each step",
+      "left_arm": "Hanging loosely at sides",
+      "right_leg": "Advancing with each step",
+      "left_leg": "Advancing with each step",
+      "torso": "Maintaining balance and posture"
+    }
+  },
+  {
+    "id": "00015",
+    "caption": "A person walks backwards.",
+    "part_descriptions": {
+      "right_arm": "Swings backward to maintain balance",
+      "left_arm": "Swings backward to maintain balance",
+      "right_leg": "Steps backward",
+      "left_leg": "Steps backward",
+      "torso": "Leans backward while moving"
+    }
+  },
+  {
+    "id": "00025",
+    "caption": "A person walking in a circle to the left",
+    "part_descriptions": {
+      "right_arm": "Swinging to the side and slightly behind the body",
+      "left_arm": "Swinging to the front and across the body in a circular motion",
+      "right_leg": "Stepping backwards and then forwards in a circular path",
+      "left_leg": "Stepping forwards and then backwards in a circular path",
+      "torso": "Rotating to the left while maintaining balance"
+    }
+  },
+  {
+    "id": "00052",
+    "caption": "the person is walking backwards",
+    "part_descriptions": {
+      "right_arm": "Swinging backward to maintain balance",
+      "left_arm": "Swinging backward to maintain balance",
+      "right_leg": "Stepping back with heel, then toe",
+      "left_leg": "Stepping back with heel, then toe",
+      "torso": "Leaning backward, keeping center of gravity over the backward-moving legs"
+    }
+  },
+  {
+    "id": "00068",
+    "caption": "Someone walks a right circle.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then back in a circular motion",
+      "left_arm": "Swings opposite to right arm in a circular motion",
+      "right_leg": "Moves in a circular path to the right",
+      "left_leg": "Moves in a circular path to the left",
+      "torso": "Rotates in a circular motion, pivoting on the legs"
+    }
+  },
+  {
+    "id": "00092",
+    "caption": "the person is making a wide turn to the right",
+    "part_descriptions": {
+      "right_arm": "Swinging out to the side",
+      "left_arm": "Bent across the body",
+      "right_leg": "Stepping behind and bending",
+      "left_leg": "Pivoting and keeping balance",
+      "torso": "Twisting to the right"
+    }
+  },
+  {
+    "id": "00093",
+    "caption": "Person walking to the right",
+    "part_descriptions": {
+      "right_arm": "Swinging forward to maintain balance",
+      "left_arm": "Swinging backward for counterbalance",
+      "right_leg": "Stepping forward",
+      "left_leg": "Swinging backward and lifting for next step",
+      "torso": "Leaning slightly to the right while walking"
+    }
+  },
+  {
+    "id": "00126",
+    "caption": "A human walking in a circle counterclockwise",
+    "part_descriptions": {
+      "right_arm": "Swinging out to the side and then inward in a circular motion",
+      "left_arm": "Swinging outward and then inward in a circular motion",
+      "right_leg": "Moving backward and then forward in a circular motion",
+      "left_leg": "Moving backward and then forward in a circular motion",
+      "torso": "Rotating in a circular motion"
+    }
+  },
+  {
+    "id": "00143",
+    "caption": "A person turns 90° to the left at medium speed.",
+    "part_descriptions": {
+      "right_arm": "Swings out to the side and slightly behind the body",
+      "left_arm": "Swings in front of the body and across the abdomen",
+      "right_leg": "Pivots to the left, bending at the knee and hip",
+      "left_leg": "Stays planted and provides stability during the turn",
+      "torso": "Twists to the left, keeping the core engaged for balance"
+    }
+  },
+  {
+    "id": "00170",
+    "caption": "the person is walking backwards",
+    "part_descriptions": {
+      "right_arm": "Swinging backward to maintain balance",
+      "left_arm": "Swinging backward to maintain balance",
+      "right_leg": "Stepping back with heel, then toe",
+      "left_leg": "Stepping back with heel, then toe",
+      "torso": "Leaning backward, keeping center of gravity over the backward-moving legs"
+    }
+  },
+  {
+    "id": "00183",
+    "caption": "A person walks in circles.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Stepping forward and then back",
+      "left_leg": "Stepping forward and then back",
+      "torso": "Rotating in a circular motion"
+    }
+  },
+  {
+    "id": "00222",
+    "caption": "A Person moves backwards",
+    "part_descriptions": {
+      "right_arm": "Moving backward, the right arm is extended behind the body",
+      "left_arm": "Moving backward, the left arm is extended behind the body",
+      "right_leg": "Steps backward with the right foot",
+      "left_leg": "Steps backward with the left foot",
+      "torso": "Leans slightly backward while moving"
+    }
+  },
+  {
+    "id": "00244",
+    "caption": "A person walks slowly in a circle in clockwise direction.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at side",
+      "left_arm": "Hanging loosely at side",
+      "right_leg": "Bent at knee, stepping forward",
+      "left_leg": "Bent at knee, stepping backward",
+      "torso": "Twisting slowly in a circle"
+    }
+  },
+  {
+    "id": "00254",
+    "caption": "a person walks a left turn",
+    "part_descriptions": {
+      "right_arm": "Swings forward to maintain balance",
+      "left_arm": "Swings backward to help turn the body",
+      "right_leg": "Steps forward",
+      "left_leg": "Bends and steps backward",
+      "torso": "Pivots to the left while maintaining an upright position"
+    }
+  },
+  {
+    "id": "00270",
+    "caption": "A person takes four steps back.",
+    "part_descriptions": {
+      "right_arm": "Hangs relaxed at side",
+      "left_arm": "Hangs relaxed at side",
+      "right_leg": "Steps back",
+      "left_leg": "Steps back",
+      "torso": "Stays upright"
+    }
+  },
+  {
+    "id": "00271",
+    "caption": "A subject is walking backward four steps.",
+    "part_descriptions": {
+      "right_arm": "Swinging backward to maintain balance",
+      "left_arm": "Swinging backward to maintain balance",
+      "right_leg": "Stepping back with heel, then toe",
+      "left_leg": "Stepping back with heel, then toe",
+      "torso": "Leaning backward while lifting feet"
+    }
+  },
+  {
+    "id": "00306",
+    "caption": "A human walks in a left bend.",
+    "part_descriptions": {
+      "right_arm": "Swinging straight ahead",
+      "left_arm": "Bent at a 90-degree angle, swinging backward",
+      "right_leg": "Moving forward, slightly bent at the knee",
+      "left_leg": "Bent at a 90-degree angle, swinging forward",
+      "torso": "Leaning slightly to the left while walking"
+    }
+  },
+  {
+    "id": "00311",
+    "caption": "A person walks a quarter circle to the right",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then backward in a circular motion",
+      "left_arm": "Swings backward and then forward in a circular motion",
+      "right_leg": "Moves forward and then to the side in a circular motion",
+      "left_leg": "Moves backward and then to the side in a circular motion",
+      "torso": "Rotates to the right while maintaining balance"
+    }
+  },
+  {
+    "id": "00331",
+    "caption": "Person standing and then walking back",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at sides",
+      "left_arm": "Hanging loosely at sides",
+      "right_leg": "Bent at knee, foot lifted for step",
+      "left_leg": "Bent at knee, foot off ground for step",
+      "torso": "Upright, balanced"
+    }
+  },
+  {
+    "id": "00332",
+    "caption": "A person walks backwards",
+    "part_descriptions": {
+      "right_arm": "Swings backward to maintain balance",
+      "left_arm": "Swings backward to maintain balance",
+      "right_leg": "Steps backward",
+      "left_leg": "Steps backward",
+      "torso": "Leans backward while moving"
+    }
+  },
+  {
+    "id": "00374",
+    "caption": "Person walking to the right",
+    "part_descriptions": {
+      "right_arm": "Swinging forward to maintain balance",
+      "left_arm": "Swinging backward for counterbalance",
+      "right_leg": "Stepping forward",
+      "left_leg": "Swinging backward and lifting for next step",
+      "torso": "Leaning slightly to the right while walking"
+    }
+  },
+  {
+    "id": "00427",
+    "caption": "Someone is walking.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Moving forward with each step",
+      "torso": "Moving forward with each step, maintaining balance"
+    }
+  },
+  {
+    "id": "00432",
+    "caption": "Person walking forwards",
+    "part_descriptions": {
+      "right_arm": "Swinging forwards and slightly bent at the elbow",
+      "left_arm": "Swinging forwards and slightly bent at the elbow",
+      "right_leg": "Moving forwards with a bent knee and pointed toe",
+      "left_leg": "Moving forwards with a bent knee and pointed toe",
+      "torso": "Leaning slightly forward with a straight back"
+    }
+  },
+  {
+    "id": "00476",
+    "caption": "A person walks forward, turns on the spot and walks back.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at sides during walking and remains relaxed during turn",
+      "left_arm": "Swings naturally at sides during walking and remains relaxed during turn",
+      "right_leg": "Advances forward during first part of action, bends slightly during turn, then steps back",
+      "left_leg": "Advances forward during first part of action, bends slightly during turn, then steps back",
+      "torso": "Leans slightly forward during walking, remains upright during turn"
+    }
+  },
+  {
+    "id": "00491",
+    "caption": "A peron makes a turn to the left.",
+    "part_descriptions": {
+      "right_arm": "Swings behind the back and across the body",
+      "left_arm": "Swings forward to balance the turn",
+      "right_leg": "Steps behind and pivots on the ball of the foot",
+      "left_leg": "Steps forward and bends slightly for balance",
+      "torso": "Rotates to the left, pivoting on the feet"
+    }
+  },
+  {
+    "id": "00498",
+    "caption": "A human walking slowly",
+    "part_descriptions": {
+      "right_arm": "Swinging slowly and naturally by the side",
+      "left_arm": "Swinging slowly and naturally by the side",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Moving forward with each step",
+      "torso": "Leaning slightly forward with each step"
+    }
+  },
+  {
+    "id": "00510",
+    "caption": "Someone sprints a few steps and stops then.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then bends at the elbow to pump body forward",
+      "left_arm": "Swings forward and then bends at the elbow to pump body forward",
+      "right_leg": "Bends at the knee and pushes off the ground, then quickly straightens",
+      "left_leg": "Bends at the knee and pushes off the ground, then quickly straightens",
+      "torso": "Leans slightly forward, then returns to an upright position"
+    }
+  },
+  {
+    "id": "00539",
+    "caption": "A person walks forward very slowly",
+    "part_descriptions": {
+      "right_arm": "Swinging slowly next to body",
+      "left_arm": "Swinging slowly next to body",
+      "right_leg": "Stepping forward slowly",
+      "left_leg": "Stepping forward slowly",
+      "torso": "Moving forward slowly and deliberately"
+    }
+  },
+  {
+    "id": "00549",
+    "caption": "a person walks and stops.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward, then bending to stop",
+      "left_leg": "Moving forward, then bending to stop",
+      "torso": "Moving forward with each step, then coming to a halt"
+    }
+  },
+  {
+    "id": "00582",
+    "caption": "Subject walks in a quarter circle counterclockwise.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then back, parallel to the ground",
+      "left_arm": "Swings backward and then forward, parallel to the ground",
+      "right_leg": "Moves in a quarter circle, bending at the knee",
+      "left_leg": "Moves in a quarter circle, bending at the knee",
+      "torso": "Rotates counterclockwise, pivoting on the feet"
+    }
+  },
+  {
+    "id": "00589",
+    "caption": "A person is running forwards very fast.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward for a quick stride",
+      "left_arm": "Swinging forward in sync with the right",
+      "right_leg": "Bent at the knee, pushing off the ground",
+      "left_leg": "Bent at the knee, preparing for the next stride",
+      "torso": "Leaning slightly forward, moving rapidly"
+    }
+  },
+  {
+    "id": "00605",
+    "caption": "a person makes a hand stand",
+    "part_descriptions": {
+      "right_arm": "Supporting body weight with outstretched hand",
+      "left_arm": "Hanging in the air, not supporting weight",
+      "right_leg": "Bent at knee, foot pointing up",
+      "left_leg": "Straight, foot pointing down",
+      "torso": "Upright, engaged in balancing act"
+    }
+  },
+  {
+    "id": "00612",
+    "caption": "A person makes a step forward and then performs a high kick with their right leg.",
+    "part_descriptions": {
+      "right_arm": "Swings arm backward for balance",
+      "left_arm": "Hangs loosely at side",
+      "right_leg": "Steps forward and then kicks up, bending at the knee and hip",
+      "left_leg": "Stands still, slightly bent for balance",
+      "torso": "Leans slightly forward, maintaining balance"
+    }
+  },
+  {
+    "id": "00646",
+    "caption": "Someone walks two steps, turns and walks back.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at sides with each step",
+      "left_arm": "Swings naturally at sides with each step",
+      "right_leg": "Takes a step forward, then another step",
+      "left_leg": "Takes a step forward, then another step",
+      "torso": "Moves forward with each step, turns around midway"
+    }
+  },
+  {
+    "id": "00685",
+    "caption": "human walks about five steps forward starting with the right leg",
+    "part_descriptions": {
+      "right_arm": "Swings forward in sync with right leg movement",
+      "left_arm": "Swings backward to maintain balance",
+      "right_leg": "Takes a step forward, bears weight",
+      "left_leg": "Folds at knee and hip, prepares for next step",
+      "torso": "Leans slightly forward, maintains balance"
+    }
+  },
+  {
+    "id": "00690",
+    "caption": "A person punches five times, beginning with the left hand and ending with the left hand.",
+    "part_descriptions": {
+      "right_arm": "Remains at side during punching sequence",
+      "left_arm": "Performs five consecutive punches",
+      "right_leg": "Stationary during punching sequence",
+      "left_leg": "Stationary during punching sequence",
+      "torso": "Rotates slightly with each punch"
+    }
+  },
+  {
+    "id": "00691",
+    "caption": "A person walks fast 4 steps forward.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward in coordination with left arm for balance",
+      "left_arm": "Swinging forward in coordination with right arm for balance",
+      "right_leg": "Moving quickly forward and then back for the next step",
+      "left_leg": "Moving quickly forward and then back for the next step",
+      "torso": "Leaning slightly forward with each step, maintaining balance"
+    }
+  },
+  {
+    "id": "00709",
+    "caption": "A person starts sprinting and then stops.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then returns to resting position",
+      "left_arm": "Swings forward and then returns to resting position",
+      "right_leg": "Bends at the knee and pushes off the ground, then comes to a halt",
+      "left_leg": "Bends at the knee and pushes off the ground, then comes to a halt",
+      "torso": "Leans forward during sprinting and then returns to an upright position"
+    }
+  },
+  {
+    "id": "00728",
+    "caption": "A person walks forward, turns on the spot and walks back.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at sides during walking and remains relaxed during turn",
+      "left_arm": "Swings naturally at sides during walking and remains relaxed during turn",
+      "right_leg": "Advances forward during first part of action, bends slightly during turn, then steps back",
+      "left_leg": "Advances forward during first part of action, bends slightly during turn, then steps back",
+      "torso": "Leans slightly forward during walking, remains upright during turn"
+    }
+  },
+  {
+    "id": "00733",
+    "caption": "A person is making a sharp turn.",
+    "part_descriptions": {
+      "right_arm": "Swinging out to maintain balance",
+      "left_arm": "Swinging inward for support",
+      "right_leg": "Bending at the knee and pushing off",
+      "left_leg": "Bending at the knee and pivoting",
+      "torso": "Twisting to complete the turn"
+    }
+  },
+  {
+    "id": "00754",
+    "caption": "human goes forward starting with right",
+    "part_descriptions": {
+      "right_arm": "Moves forward",
+      "left_arm": "Hangs relaxed at side",
+      "right_leg": "Steps forward",
+      "left_leg": "Stays in place",
+      "torso": "Leans slightly forward"
+    }
+  },
+  {
+    "id": "00764",
+    "caption": "A person walks a quarter circle clockwise with 4 steps.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then backward with each step",
+      "left_arm": "Swings opposite to right arm with each step",
+      "right_leg": "Moves forward and then back, bending at the knee",
+      "left_leg": "Moves forward and then back, bending at the knee",
+      "torso": "Rotates clockwise with each step, maintaining balance"
+    }
+  },
+  {
+    "id": "00834",
+    "caption": "Someone walks forward and turns around.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then falls to sides as person turns around",
+      "left_arm": "Swings forward and then falls to sides as person turns around",
+      "right_leg": "Steps forward and then swings back as person turns around",
+      "left_leg": "Steps forward and then swings back as person turns around",
+      "torso": "Rotates 180 degrees to face opposite direction"
+    }
+  },
+  {
+    "id": "00841",
+    "caption": "A person is strolling along at a leisurely pace taking his time to look around.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Swinging forward with each step",
+      "left_leg": "Swinging forward with each step",
+      "torso": "Leaning slightly forward, looking around"
+    }
+  },
+  {
+    "id": "00873",
+    "caption": "A person walks 2 steps forward, turns 180 degrees on the right foot and walks again 2 steps forward.",
+    "part_descriptions": {
+      "right_arm": "Swings forward with each step, then hangs loose during turn",
+      "left_arm": "Swings opposite to right arm with each step, then hangs loose during turn",
+      "right_leg": "Takes a step forward, then bends slightly during turn, then takes another step forward",
+      "left_leg": "Takes a step forward, then bends slightly during turn, then takes another step forward",
+      "torso": "Rotates 180 degrees to the right during turn"
+    }
+  },
+  {
+    "id": "00897",
+    "caption": "A person walks forward.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward",
+      "left_leg": "Moving forward",
+      "torso": "Moving forward"
+    }
+  },
+  {
+    "id": "00905",
+    "caption": "A person walks forward",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward",
+      "left_leg": "Moving forward",
+      "torso": "Advancing forward"
+    }
+  },
+  {
+    "id": "00908",
+    "caption": "A person walks 4 steps forward.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at sides with each step",
+      "left_arm": "Swings naturally at sides with each step",
+      "right_leg": "Moves forward, bends slightly at knee and hip",
+      "left_leg": "Moves forward, bends slightly at knee and hip",
+      "torso": "Leans slightly forward with each step"
+    }
+  },
+  {
+    "id": "00909",
+    "caption": "A person walks forwards fast.",
+    "part_descriptions": {
+      "right_arm": "Swinging forwards and slightly bent at the elbow",
+      "left_arm": "Swinging forwards and slightly bent at the elbow",
+      "right_leg": "Striding forwards with heel touching the ground",
+      "left_leg": "Striding forwards with heel touching the ground",
+      "torso": "Leaning slightly forward with each step"
+    }
+  },
+  {
+    "id": "00918",
+    "caption": "A person joggs a few steps forward.",
+    "part_descriptions": {
+      "right_arm": "Swings forward in a running motion",
+      "left_arm": "Swings forward in a running motion",
+      "right_leg": "Bends at the knee and pushes off the ground",
+      "left_leg": "Bends at the knee and swings forward",
+      "torso": "Leans slightly forward, moving with the legs"
+    }
+  },
+  {
+    "id": "00922",
+    "caption": "A person runs forward.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward for balance",
+      "left_arm": "Swinging forward for momentum",
+      "right_leg": "Bent at the knee, pushing off the ground",
+      "left_leg": "Bent at the knee, preparing to swing forward",
+      "torso": "Leaning slightly forward, moving quickly"
+    }
+  },
+  {
+    "id": "00943",
+    "caption": "A person makes four steps forward in a quarter circle to the left.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then across the body",
+      "left_arm": "Swings backward and then across the body",
+      "right_leg": "Takes a step forward, then another step diagonally to the left",
+      "left_leg": "Takes a step forward, then another step diagonally to the left",
+      "torso": "Rotates slightly to the left with each step"
+    }
+  },
+  {
+    "id": "00954",
+    "caption": "A human walking back and forward in a straight line",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward and back",
+      "left_leg": "Moving forward and back",
+      "torso": "Moving forward and back in a straight line"
+    }
+  },
+  {
+    "id": "00964",
+    "caption": "A person walks forward.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward",
+      "left_leg": "Moving forward",
+      "torso": "Moving forward"
+    }
+  },
+  {
+    "id": "00967",
+    "caption": "Someone pretends to start running but then walks instead.",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow with a flexed hand, ready for running",
+      "left_arm": "Bent at the elbow with a flexed hand, ready for running",
+      "right_leg": "Bent at the knee with toes pointed forward, prepared to push off",
+      "left_leg": "Bent at the knee with toes pointed forward, prepared to push off",
+      "torso": "Leans slightly forward, ready to transfer weight to legs for running"
+    }
+  },
+  {
+    "id": "00981",
+    "caption": "Person walking to the right",
+    "part_descriptions": {
+      "right_arm": "Swinging forward to maintain balance",
+      "left_arm": "Swinging backward for counterbalance",
+      "right_leg": "Stepping forward",
+      "left_leg": "Swinging backward and lifting for next step",
+      "torso": "Leaning slightly to the right while walking"
+    }
+  },
+  {
+    "id": "00983",
+    "caption": "Subject is walking in a quarter circle clockwise.",
+    "part_descriptions": {
+      "right_arm": "Swinging freely at side",
+      "left_arm": "Swinging freely at side",
+      "right_leg": "Stepping forward and then bending at knee",
+      "left_leg": "Lifting and then bending at knee",
+      "torso": "Rotating clockwise while maintaining balance"
+    }
+  },
+  {
+    "id": "00988",
+    "caption": "A human walks to the left.",
+    "part_descriptions": {
+      "right_arm": "Swinging slightly to maintain balance",
+      "left_arm": "Swinging forward to counterbalance the movement",
+      "right_leg": "Stepping backward",
+      "left_leg": "Stepping forward",
+      "torso": "Leaning slightly to the left while moving"
+    }
+  },
+  {
+    "id": "01001",
+    "caption": "A person doing 2 steps forward, while turning around on the second step in one motion and doing one step forward again from this position, so that it stand at the starting place againg, while facing the opposite direction",
+    "part_descriptions": {
+      "right_arm": "Swings right arm forward and then across body during turn",
+      "left_arm": "Swings left arm forward and then across body during turn",
+      "right_leg": "Takes two steps forward, then bends and steps back with right foot",
+      "left_leg": "Takes two steps forward, then bends and steps back with left foot",
+      "torso": "Rotates counter-clockwise during turn"
+    }
+  },
+  {
+    "id": "01006",
+    "caption": "a person is walking forward and doing a left u-turn and walks back",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Bending at elbow for turn, then swinging behind back",
+      "right_leg": "Stepping forward, then back",
+      "left_leg": "Stepping forward, then pivoting and stepping back",
+      "torso": "Leaning slightly to left during turn"
+    }
+  },
+  {
+    "id": "01016",
+    "caption": "Person stumbling to the left",
+    "part_descriptions": {
+      "right_arm": "Swinging to regain balance",
+      "left_arm": "Swinging to counteract stumble",
+      "right_leg": "Stepping back to maintain balance",
+      "left_leg": "Stumbling to the left",
+      "torso": "Leaning to the left while trying to recover"
+    }
+  },
+  {
+    "id": "01030",
+    "caption": "A human is walking forward.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward",
+      "left_leg": "Moving forward",
+      "torso": "Moving forward"
+    }
+  },
+  {
+    "id": "01070",
+    "caption": "A person is turning a left corner",
+    "part_descriptions": {
+      "right_arm": "Swinging to maintain balance",
+      "left_arm": "Bent at the elbow, turning the corner",
+      "right_leg": "Stepping behind the left leg",
+      "left_leg": "Bending slightly, pushing off the ground",
+      "torso": "Twisting to face the new direction"
+    }
+  },
+  {
+    "id": "01073",
+    "caption": "A person walks counterclockwise a quarter of a small circle.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then back, in sync with left arm",
+      "left_arm": "Swings forward and then back, in sync with right arm",
+      "right_leg": "Steps out to the side and then back",
+      "left_leg": "Steps out in the opposite direction and then back",
+      "torso": "Rotates counterclockwise, maintaining balance"
+    }
+  },
+  {
+    "id": "01092",
+    "caption": "Subject walks forward spins around and walks back.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then circles around during spin",
+      "left_arm": "Swings forward and then circles around during spin",
+      "right_leg": "Moves forward during walk, then returns to starting position",
+      "left_leg": "Moves forward during walk, then returns to starting position",
+      "torso": "Rotates 360 degrees during spin"
+    }
+  },
+  {
+    "id": "01097",
+    "caption": "A person walks 2 steps forward, turns 180 degrees on the left foot and walks again 2 steps forward.",
+    "part_descriptions": {
+      "right_arm": "Swings forward with each step, then hangs loose during turn",
+      "left_arm": "Swings opposite to right arm during turn, then swings forward with each step",
+      "right_leg": "Takes a step forward, then bends slightly during turn, then takes another step forward",
+      "left_leg": "Stays stationary during turn, then takes a step forward, then bends slightly",
+      "torso": "Rotates 180 degrees during turn, keeping balance"
+    }
+  },
+  {
+    "id": "01118",
+    "caption": "A person stumbling to the left",
+    "part_descriptions": {
+      "right_arm": "Swinging to maintain balance",
+      "left_arm": "Swinging to regain balance, forward",
+      "right_leg": "Stepping back to prevent falling",
+      "left_leg": "Bending and lifting to stabilize, towards left",
+      "torso": "Leaning to left side, attempting to recover"
+    }
+  },
+  {
+    "id": "01123",
+    "caption": "A person performs a sluggish step to the left.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at the side",
+      "left_arm": "Swinging slowly backward",
+      "right_leg": "Moving slowly to the right",
+      "left_leg": "Advancing slowly to the left",
+      "torso": "Leaning slightly to the left"
+    }
+  },
+  {
+    "id": "01176",
+    "caption": "A person moves 1-2 m forward very slowly.",
+    "part_descriptions": {
+      "right_arm": "Moving slowly forward, the right arm is relaxed at the side",
+      "left_arm": "Moving slowly forward, the left arm is relaxed at the side",
+      "right_leg": "Takes a small step forward with the right leg",
+      "left_leg": "Stays in place, supporting the upper body",
+      "torso": "Leans slightly forward while moving slowly"
+    }
+  },
+  {
+    "id": "01177",
+    "caption": "A human walks slowly forward..",
+    "part_descriptions": {
+      "right_arm": "Swinging slowly forward in sync with left arm",
+      "left_arm": "Swinging slowly forward in sync with right arm",
+      "right_leg": "Moving forward with heel touching the ground first",
+      "left_leg": "Moving forward with heel touching the ground first",
+      "torso": "Leaning slightly forward with a straight back"
+    }
+  },
+  {
+    "id": "01209",
+    "caption": "A person dances Waltz.",
+    "part_descriptions": {
+      "right_arm": "Moves in a circular motion, slightly bent and held close to the body",
+      "left_arm": "Moves in a circular motion, slightly bent and held close to the body, opposite the right arm",
+      "right_leg": "Steps forward and backward in a smooth, rhythmic manner",
+      "left_leg": "Steps forward and backward in a smooth, rhythmic manner, opposite the right leg",
+      "torso": "Moves in a fluid, swaying motion, bending slightly forward and backward"
+    }
+  },
+  {
+    "id": "01264",
+    "caption": "A person takes a deep bow.",
+    "part_descriptions": {
+      "right_arm": "Bent and lowered to the side",
+      "left_arm": "Bent and lowered to the opposite side",
+      "right_leg": "Straight and slightly bent at the knee",
+      "left_leg": "Straight and slightly bent at the knee",
+      "torso": "Bent forward from the hips"
+    }
+  },
+  {
+    "id": "01282",
+    "caption": "A person performs a low kick with his right foot.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Resting at his side",
+      "right_leg": "Raising for the kick",
+      "left_leg": "Bent slightly for balance",
+      "torso": "Leaning slightly forward"
+    }
+  },
+  {
+    "id": "01299",
+    "caption": "A person performs a punching motion.",
+    "part_descriptions": {
+      "right_arm": "Moves forward and up in a punching motion",
+      "left_arm": "Remains at side or protects the face",
+      "right_leg": "Stands stable and firm on the ground",
+      "left_leg": "Stands stable and firm on the ground",
+      "torso": "Twists and rotates slightly towards the punching direction"
+    }
+  },
+  {
+    "id": "01319",
+    "caption": "Subject jumps once.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and up during the jump",
+      "left_arm": "Swings forward and up in synchronization",
+      "right_leg": "Bends at the knee and pushes off the ground",
+      "left_leg": "Bends at the knee and swings forward in the air",
+      "torso": "Lifts off the ground, then returns to a standing position"
+    }
+  },
+  {
+    "id": "01369",
+    "caption": "A Person doing a tennis racket like movement",
+    "part_descriptions": {
+      "right_arm": "Bending at the elbow and holding a tennis racket with an open palm",
+      "left_arm": "Relaxed at the side of the body",
+      "right_leg": "Slightly bent, ready to step forward",
+      "left_leg": "Bent at the knee and slightly lifted, preparing for a lunge",
+      "torso": "Leaning slightly forward, core engaged for balance"
+    }
+  },
+  {
+    "id": "01407",
+    "caption": "Subject waves with both hands.",
+    "part_descriptions": {
+      "right_arm": "Moving in a waving motion",
+      "left_arm": "Moving in a synchronous waving motion",
+      "right_leg": "Stationary",
+      "left_leg": "Stationary",
+      "torso": "Remains relatively still"
+    }
+  },
+  {
+    "id": "01409",
+    "caption": "Someone waves with both hands.",
+    "part_descriptions": {
+      "right_arm": "Moving up and down in a waving motion",
+      "left_arm": "Moving up and down in a waving motion",
+      "right_leg": "Stationary",
+      "left_leg": "Stationary",
+      "torso": "Stationary"
+    }
+  },
+  {
+    "id": "01412",
+    "caption": "a person waves with both of his hands",
+    "part_descriptions": {
+      "right_arm": "moving up and down in a waving motion",
+      "left_arm": "moving up and down in a waving motion",
+      "right_leg": "stationary",
+      "left_leg": "stationary",
+      "torso": "stationary"
+    }
+  },
+  {
+    "id": "01418",
+    "caption": "A human playing a guitar",
+    "part_descriptions": {
+      "right_arm": "Strumming the guitar strings",
+      "left_arm": "Supporting the neck of the guitar",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Leaning forward towards the guitar"
+    }
+  },
+  {
+    "id": "01428",
+    "caption": "a human plays guitar.",
+    "part_descriptions": {
+      "right_arm": "Strums the guitar strings",
+      "left_arm": "Supports the neck of the guitar",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Leans forward and maintains balance"
+    }
+  },
+  {
+    "id": "01429",
+    "caption": "Person playing the air guitar",
+    "part_descriptions": {
+      "right_arm": "Mimicking strumming a guitar",
+      "left_arm": "Resting on hip or forming a chord shape",
+      "right_leg": "Steadily bouncing up and down",
+      "left_leg": "Slightly bent with some movement",
+      "torso": "Leaning forward with a focused expression"
+    }
+  },
+  {
+    "id": "01443",
+    "caption": "A human plays air guitar.",
+    "part_descriptions": {
+      "right_arm": "Mimicking playing a guitar, right arm is extended and moves up and down in the air",
+      "left_arm": "Mimicking playing a guitar, left arm is extended and moves up and down in the air",
+      "right_leg": "undefined",
+      "left_leg": "undefined",
+      "torso": "The torso remains relatively still during the action"
+    }
+  },
+  {
+    "id": "01447",
+    "caption": "A person plays air guitar.",
+    "part_descriptions": {
+      "right_arm": "Mimicking playing a guitar",
+      "left_arm": "Resting at side or mimicking strumming a guitar",
+      "right_leg": "Stationary",
+      "left_leg": "Stationary",
+      "torso": "Leaning forward or swaying to the rhythm"
+    }
+  },
+  {
+    "id": "01479",
+    "caption": "A person plays the violin",
+    "part_descriptions": {
+      "right_arm": "Holds the bow and applies pressure to the strings",
+      "left_arm": "Supports the instrument's neck and adjusts the bow",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Leans forward slightly, maintaining balance and stability"
+    }
+  },
+  {
+    "id": "01483",
+    "caption": "A person wipes a circle on a waist high surface.",
+    "part_descriptions": {
+      "right_arm": "Hangs relaxed at side",
+      "left_arm": "Hangs relaxed at side",
+      "right_leg": "Stands straight",
+      "left_leg": "Stands straight",
+      "torso": "Leans slightly forward, bending at waist"
+    }
+  },
+  {
+    "id": "01494",
+    "caption": "A person doing a wiping or stirring movement with the right hand",
+    "part_descriptions": {
+      "right_arm": "Making a wiping or stirring motion",
+      "left_arm": "Resting at the person's side",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Leaning slightly forward"
+    }
+  },
+  {
+    "id": "01503",
+    "caption": "A person wipes two times in a circle on a waist high surface.",
+    "part_descriptions": {
+      "right_arm": "Hangs loosely at the side",
+      "left_arm": "Hangs loosely at the side",
+      "right_leg": "Stands straight",
+      "left_leg": "Stands straight",
+      "torso": "Leans slightly forward, twisting waist in a circular motion"
+    }
+  },
+  {
+    "id": "01587",
+    "caption": "A person goes four and a half steps forward while looking at their feet.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Moving forward with each step",
+      "torso": "Leaning slightly forward while looking at feet"
+    }
+  },
+  {
+    "id": "01655",
+    "caption": "A person is standing straight upright with their arms streched out sideways.",
+    "part_descriptions": {
+      "right_arm": "extended straight to the sides",
+      "left_arm": "extended straight to the sides",
+      "right_leg": "straight and slightly bent at the knee",
+      "left_leg": "straight and slightly bent at the knee",
+      "torso": "upright and straight"
+    }
+  },
+  {
+    "id": "01664",
+    "caption": "A person goes around",
+    "part_descriptions": {
+      "right_arm": "Swings freely at the side of the body",
+      "left_arm": "Swings freely at the side of the body",
+      "right_leg": "Moves in a circular motion",
+      "left_leg": "Moves in a circular motion",
+      "torso": "Rotates as the person goes around"
+    }
+  },
+  {
+    "id": "01700",
+    "caption": "A person stumbling to the left.",
+    "part_descriptions": {
+      "right_arm": "Swinging to maintain balance",
+      "left_arm": "Swinging to regain balance, forward",
+      "right_leg": "Stepping back to recover footing",
+      "left_leg": "Bent, preparing to step out for support",
+      "torso": "Leaning to the left, attempting to regain balance"
+    }
+  },
+  {
+    "id": "01703",
+    "caption": "A person makes a step to the left.",
+    "part_descriptions": {
+      "right_arm": "Swings slightly to the right",
+      "left_arm": "Moves forward with a small step",
+      "right_leg": "Stays in place",
+      "left_leg": "Takes a step to the left",
+      "torso": "Leans slightly to the left"
+    }
+  },
+  {
+    "id": "01745",
+    "caption": "A person is pushed from right.",
+    "part_descriptions": {
+      "right_arm": "Pushed against body, bent at elbow and slightly raised for balance",
+      "left_arm": "Hangs naturally at side, not involved in the action",
+      "right_leg": "May step back for balance, otherwise undefined",
+      "left_leg": "Stands firm, not involved in the action",
+      "torso": "Leans back due to force from right side"
+    }
+  },
+  {
+    "id": "01762",
+    "caption": "a person walks forwards",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward, bent at knee",
+      "left_leg": "Moving forward, bent at knee",
+      "torso": "Moving forward, upright posture"
+    }
+  },
+  {
+    "id": "01794",
+    "caption": "A person walks straight, recovers from a hard pushed from the left, and returns to the original path.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at side during walk",
+      "left_arm": "Swings naturally at side during walk, then pushes off to regain balance",
+      "right_leg": "Moves forward in a straight line during walk",
+      "left_leg": "Moves forward in a straight line during walk, then bends to absorb force of push and recovers",
+      "torso": "Maintains upright position during walk, adjusts balance after being pushed"
+    }
+  },
+  {
+    "id": "01795",
+    "caption": "Person walking forwards and then stumbling",
+    "part_descriptions": {
+      "right_arm": "undefined",
+      "left_arm": "undefined",
+      "right_leg": "undefined",
+      "left_leg": "undefined",
+      "torso": "undefined"
+    }
+  },
+  {
+    "id": "01809",
+    "caption": "the person is pushed to the right",
+    "part_descriptions": {
+      "right_arm": "Moved to the right side of the body",
+      "left_arm": "Remained stationary",
+      "right_leg": "Moved to the right side of the body",
+      "left_leg": "Remained stationary",
+      "torso": "Moved to the right side of the body"
+    }
+  },
+  {
+    "id": "01825",
+    "caption": "A person stumbles backwards.",
+    "part_descriptions": {
+      "right_arm": "Swings backward for balance",
+      "left_arm": "Swings backward for balance",
+      "right_leg": "Steps backward",
+      "left_leg": "Steps backward",
+      "torso": "Leans backward to maintain balance"
+    }
+  },
+  {
+    "id": "01834",
+    "caption": "A person pushed from the back",
+    "part_descriptions": {
+      "right_arm": "Pushed backward by an external force",
+      "left_arm": "Hanging at side or pushed backward by an external force",
+      "right_leg": "Straightened or slightly bent, ready to support body",
+      "left_leg": "Straightened or slightly bent, ready to support body",
+      "torso": "Leaning or pushed backward"
+    }
+  },
+  {
+    "id": "01836",
+    "caption": "A person gets pushed forward approximately 1 meter.",
+    "part_descriptions": {
+      "right_arm": "Moved forward along with the person's body",
+      "left_arm": "Moved forward along with the person's body",
+      "right_leg": "Advanced approximately 1 meter forward",
+      "left_leg": "Advanced approximately 1 meter forward",
+      "torso": "Moved approximately 1 meter forward"
+    }
+  },
+  {
+    "id": "01877",
+    "caption": "A person walks forward, gets pushed from the left and performs a sidestep.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then holds balance",
+      "left_arm": "Swings backward to maintain balance",
+      "right_leg": "Steps forward",
+      "left_leg": "Performs a sidestep to the left",
+      "torso": "Leans back slightly and then returns to upright position"
+    }
+  },
+  {
+    "id": "01905",
+    "caption": "A person is dancing.",
+    "part_descriptions": {
+      "right_arm": "Moving up and down in rhythmic motions",
+      "left_arm": "Moving up and down in rhythmic motions",
+      "right_leg": "Bending and straightening in time with music",
+      "left_leg": "Bending and straightening in time with music",
+      "torso": "Moving back and forth, twisting side to side"
+    }
+  },
+  {
+    "id": "01931",
+    "caption": "Subject walks and then sidesteps left and walks again.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at side",
+      "left_arm": "Swings to the side and then swings back to walk",
+      "right_leg": "Moves forward, then steps to the side and then moves forward again",
+      "left_leg": "Steps to the side, then moves forward and repeats",
+      "torso": "Moves forward with each step"
+    }
+  },
+  {
+    "id": "01948",
+    "caption": "A person makes one big step an one small step backwards.",
+    "part_descriptions": {
+      "right_arm": "Hangs loosely at side",
+      "left_arm": "Hangs loosely at side",
+      "right_leg": "Takes a big step back",
+      "left_leg": "Stands still, then takes a small step back",
+      "torso": "Leans slightly backward"
+    }
+  },
+  {
+    "id": "01975",
+    "caption": "A person turns 90° to the right at medium speed.",
+    "part_descriptions": {
+      "right_arm": "Swings out to the side and slightly behind the body",
+      "left_arm": "Swings inward and across the chest",
+      "right_leg": "Pivots outward and slightly behind the body",
+      "left_leg": "Pivots inward and across the body",
+      "torso": "Rotates to the right, maintaining an upright position"
+    }
+  },
+  {
+    "id": "01992",
+    "caption": "A person walks forwards, turns around a walks back.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then swings backward in a walking motion",
+      "left_arm": "Swings forward and then swings backward in a walking motion",
+      "right_leg": "Takes a step forward, then lifts and swings backward during turnaround",
+      "left_leg": "Takes a step forward, then lifts and swings backward during turnaround",
+      "torso": "Leans slightly forward during walking, then twists to face opposite direction"
+    }
+  },
+  {
+    "id": "01995",
+    "caption": "A person is walking forward then making a sharp turn.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward and then bending at the elbow to balance during the turn",
+      "left_arm": "Swinging forward and then bending at the elbow to balance during the turn",
+      "right_leg": "Stepping forward and then pivoting on the ball of the foot during the turn",
+      "left_leg": "Stepping forward and then pivoting on the ball of the foot during the turn",
+      "torso": "Twisting and leaning in the direction of the turn"
+    }
+  },
+  {
+    "id": "02048",
+    "caption": "The human subject kneels down on the floor.",
+    "part_descriptions": {
+      "right_arm": "Hangs loosely by the right side of the body",
+      "left_arm": "Hangs loosely by the left side of the body",
+      "right_leg": "Bent at the knee, foot placed on the floor",
+      "left_leg": "Bent at the knee, foot placed on the floor",
+      "torso": "Leans forward, close to the floor"
+    }
+  },
+  {
+    "id": "02110",
+    "caption": "Someone goes down on his knees",
+    "part_descriptions": {
+      "right_arm": "Bent and placed on the knee of the right leg",
+      "left_arm": "Bent and placed on the knee of the left leg",
+      "right_leg": "Bent at the knee and supporting the body's weight",
+      "left_leg": "Bent at the knee and supporting the body's weight",
+      "torso": "Leaning forward with the knees"
+    }
+  },
+  {
+    "id": "02118",
+    "caption": "A person performs a jump and then walks forward at medium speed.",
+    "part_descriptions": {
+      "right_arm": "Swings forward during jump and then hangs loosely at side while walking",
+      "left_arm": "Swings forward during jump and then hangs loosely at side while walking",
+      "right_leg": "Lifts off the ground during jump and then swings forward in a marching motion",
+      "left_leg": "Lifts off the ground during jump and then swings forward in a marching motion",
+      "torso": "Rises during jump and then leans slightly forward while walking"
+    }
+  },
+  {
+    "id": "02121",
+    "caption": "A person jumps up then walks forward two steps.",
+    "part_descriptions": {
+      "right_arm": "Swings forward during jump, then hangs loosely at sides while walking",
+      "left_arm": "Swings forward during jump, then hangs loosely at sides while walking",
+      "right_leg": "Lifts off the ground during jump, then steps forward twice",
+      "left_leg": "Lifts off the ground during jump, then steps forward twice",
+      "torso": "Rises during jump, then moves forward with each step"
+    }
+  },
+  {
+    "id": "02171",
+    "caption": "A person picks something up with the right hand, passes it over to the left hand and finally puts it back down.",
+    "part_descriptions": {
+      "right_arm": "Moves towards an object, grasps it with the hand",
+      "left_arm": "Receives the object from the right hand",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Stays still during the action"
+    }
+  },
+  {
+    "id": "02184",
+    "caption": "A person raises both arms on the side of his body and moves them back down",
+    "part_descriptions": {
+      "right_arm": "Raising to the side and then lowering",
+      "left_arm": "Raising to the side and then lowering",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Undefined"
+    }
+  },
+  {
+    "id": "02315",
+    "caption": "A person moving fast forward while looking down.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely by his side",
+      "left_arm": "Hanging loosely by his side",
+      "right_leg": "Stride forward, bent at knee",
+      "left_leg": "Stride forward, bent at knee",
+      "torso": "Leaning slightly forward, looking down"
+    }
+  },
+  {
+    "id": "02322",
+    "caption": "A person hops 4 times on the left leg forward",
+    "part_descriptions": {
+      "right_arm": "Swinging freely at the side",
+      "left_arm": "Folded across the body for balance",
+      "right_leg": "Slightly bent, not involved in the action",
+      "left_leg": "Bent at the knee and hip, pushing off the ground with each hop",
+      "torso": "Leaning slightly forward, maintaining balance"
+    }
+  },
+  {
+    "id": "02418",
+    "caption": "A human walks backwards with a stoop.",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow and swinging backward",
+      "left_arm": "Bent at the elbow and swinging backward",
+      "right_leg": "Bent at the knee and stepping backward",
+      "left_leg": "Bent at the knee and stepping backward",
+      "torso": "Leaning forward with a stooped posture"
+    }
+  },
+  {
+    "id": "02499",
+    "caption": "A human walks holding her right upper leg with both hands.",
+    "part_descriptions": {
+      "right_arm": "Holding her right upper leg",
+      "left_arm": "Swinging freely at her side",
+      "right_leg": "Holding her right upper leg",
+      "left_leg": "Swinging freely",
+      "torso": "Moving forward with each step"
+    }
+  },
+  {
+    "id": "02593",
+    "caption": "A person first walks, then crawls on all fours and then walks again.",
+    "part_descriptions": {
+      "right_arm": "undefined",
+      "left_arm": "undefined",
+      "right_leg": "undefined",
+      "left_leg": "undefined",
+      "torso": "undefined"
+    }
+  },
+  {
+    "id": "02598",
+    "caption": "A human slowly walks two steps.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Moving forward, bending at the knee",
+      "left_leg": "Moving forward, bending at the knee",
+      "torso": "Upright, maintaining balance"
+    }
+  },
+  {
+    "id": "02606",
+    "caption": "A person is carefully and slowly moving forward and then turns 180 degrees to walk back again.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at the side",
+      "left_arm": "Hanging loosely at the side",
+      "right_leg": "Steps forward, then bends to pivot on the ball of the foot",
+      "left_leg": "Stays stationary during the turn, then steps back to bear weight",
+      "torso": "Twists to face the opposite direction during the turn"
+    }
+  },
+  {
+    "id": "02797",
+    "caption": "A human performs a 90°, a 180° and a 360° counter clockwise jump.",
+    "part_descriptions": {
+      "right_arm": "Swings around in a circular motion during the 360° jump",
+      "left_arm": "Swings around in a circular motion during the 360° jump",
+      "right_leg": "Bends at the knee and swings around during the jumps",
+      "left_leg": "Bends at the knee and swings around during the jumps",
+      "torso": "Twists and turns as the body completes the 90°, 180° and 360° jumps"
+    }
+  },
+  {
+    "id": "02904",
+    "caption": "A person is slowly and concentrated walking up a little inclination.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Bending at the knee, lifting foot upwards",
+      "left_leg": "Bending at the knee, lifting foot upwards",
+      "torso": "Leaning slightly forward, maintaining balance"
+    }
+  },
+  {
+    "id": "02922",
+    "caption": "Someone plays hopscotch.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and backward to maintain balance",
+      "left_arm": "Swings forward and backward to maintain balance",
+      "right_leg": "Steps forward, then hops on one foot, then hops back",
+      "left_leg": "Steps forward, then hops on one foot, then hops back",
+      "torso": "Leans forward and backward with each hop"
+    }
+  },
+  {
+    "id": "02940",
+    "caption": "A human crouches down and searches the floor around her current location.",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow and resting on the knee",
+      "left_arm": "Hanging loosely at the side",
+      "right_leg": "Bent at the knee and touching the ground",
+      "left_leg": "Bent at the knee and slightly off the ground",
+      "torso": "Leaning forward with rounded back"
+    }
+  },
+  {
+    "id": "02947",
+    "caption": "A human  is picking something up",
+    "part_descriptions": {
+      "right_arm": "Bending at the elbow and reaching out",
+      "left_arm": "Hanging relaxed at the side",
+      "right_leg": "Standing firm on the ground",
+      "left_leg": "Standing firm on the ground",
+      "torso": "Leaning slightly forward"
+    }
+  },
+  {
+    "id": "03009",
+    "caption": "A person uses an axe.",
+    "part_descriptions": {
+      "right_arm": "Holds the axe with a firm grip",
+      "left_arm": "Remains free to maintain balance",
+      "right_leg": "Stands firmly on the ground",
+      "left_leg": "Supports the body and maintains balance",
+      "torso": "Bends slightly forward to apply force"
+    }
+  },
+  {
+    "id": "03155",
+    "caption": "A person shakes the bent arms and the head like an eating chicken.",
+    "part_descriptions": {
+      "right_arm": "Bent and shaken in a chicken-like motion",
+      "left_arm": "Bent and shaken in a chicken-like motion",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Head shaken side to side like a chicken"
+    }
+  },
+  {
+    "id": "03227",
+    "caption": "A person who knocks at a wall with both hands.",
+    "part_descriptions": {
+      "right_arm": "Holding right hand flat against the wall, knocks with it.",
+      "left_arm": "Holding left hand flat against the wall, knocks with it.",
+      "right_leg": "Stands straight with weight on right foot.",
+      "left_leg": "Stands straight with weight on left foot.",
+      "torso": "Leans slightly forward, applying force with both arms."
+    }
+  },
+  {
+    "id": "03232",
+    "caption": "The person performs a careful step forward of about 0.5 meters starting with the right leg",
+    "part_descriptions": {
+      "right_arm": "Hangs loosely at side of body",
+      "left_arm": "Swings slightly backward for balance",
+      "right_leg": "Bends at knee and pushes off the ground, moving forward",
+      "left_leg": "Stays bent with weight supported, preparing for next step",
+      "torso": "Leans slightly forward, maintaining balance"
+    }
+  },
+  {
+    "id": "03262",
+    "caption": "A human performs a 45° side step to the front, back and front again.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then back in sync with leg movement",
+      "left_arm": "Swings forward and then back in sync with leg movement",
+      "right_leg": "Steps 45 degrees to the front, then back to the starting position, and then 45 degrees to the front again",
+      "left_leg": "Steps 45 degrees to the front, then back to the starting position, and then 45 degrees to the front again",
+      "torso": "Rotates slightly with each step, maintaining balance"
+    }
+  },
+  {
+    "id": "03276",
+    "caption": "A person jumps forward.",
+    "part_descriptions": {
+      "right_arm": "Swings forward for balance",
+      "left_arm": "Swings forward for momentum",
+      "right_leg": "Bends at the knee and pushes off the ground",
+      "left_leg": "Bends at the knee and swings forward",
+      "torso": "Leans slightly forward before jumping"
+    }
+  },
+  {
+    "id": "03284",
+    "caption": "A person is doing a diagonal step approximately 30 centimeters to the right and front starting with his left foot.",
+    "part_descriptions": {
+      "right_arm": "Hanging relaxed at side",
+      "left_arm": "Swinging forward to balance",
+      "right_leg": "Stationary, slightly bent",
+      "left_leg": "Moving diagonally forward",
+      "torso": "Leaning slightly forward"
+    }
+  },
+  {
+    "id": "03290",
+    "caption": "A human turns 360° leftwards while jumping in the air.",
+    "part_descriptions": {
+      "right_arm": "Swinging out to the side",
+      "left_arm": "Swinging around at the back",
+      "right_leg": "Raised and bent at the knee, swinging back",
+      "left_leg": "Raised and bent at the knee, swinging around",
+      "torso": "Twisting and turning leftwards"
+    }
+  },
+  {
+    "id": "03365",
+    "caption": "A person's feet are dragged forward so he falls down on his back and stays lying.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Dragged forward, bent at the knee",
+      "left_leg": "Dragged forward, bent at the knee",
+      "torso": "Lying flat on his back"
+    }
+  },
+  {
+    "id": "03419",
+    "caption": "A person is slowly walking forward with the arms swinging a bit.",
+    "part_descriptions": {
+      "right_arm": "Moving in a swinging motion",
+      "left_arm": "Moving in a swinging motion",
+      "right_leg": "Stepping forward slowly",
+      "left_leg": "Stepping forward slowly",
+      "torso": "Maintaining an upright position"
+    }
+  },
+  {
+    "id": "03462",
+    "caption": "A human dances.",
+    "part_descriptions": {
+      "right_arm": "Moving in rhythmic patterns",
+      "left_arm": "Swaying and moving in rhythm",
+      "right_leg": "Bending and straightening",
+      "left_leg": "Bending and straightening",
+      "torso": "Twisting and turning, moving with the rhythm"
+    }
+  },
+  {
+    "id": "03480",
+    "caption": "A person is running.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward",
+      "left_arm": "Swinging forward",
+      "right_leg": "Moving forward quickly",
+      "left_leg": "Moving forward quickly",
+      "torso": "Bouncing up and down"
+    }
+  },
+  {
+    "id": "03537",
+    "caption": "A person walks an eight.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Moving forward with each step",
+      "torso": "Moving forward with a slight bend at waist"
+    }
+  },
+  {
+    "id": "03546",
+    "caption": "A person agressively walks in an 8.",
+    "part_descriptions": {
+      "right_arm": "Swinging forcefully forward and backward",
+      "left_arm": "Swinging forcefully forward and backward in sync",
+      "right_leg": "Striding aggressively forward",
+      "left_leg": "Striding aggressively forward in sync",
+      "torso": "Leaning slightly forward with clenched fists"
+    }
+  },
+  {
+    "id": "03631",
+    "caption": "The person does a 360 clockwise jump",
+    "part_descriptions": {
+      "right_arm": "Swings around in a circular motion",
+      "left_arm": "Swings around in a circular motion",
+      "right_leg": "Lifts off the ground and rotates outward",
+      "left_leg": "Lifts off the ground and rotates inward",
+      "torso": "Rotates 360 degrees clockwise"
+    }
+  },
+  {
+    "id": "03682",
+    "caption": "a human runs forward",
+    "part_descriptions": {
+      "right_arm": "Swinging forward for balance",
+      "left_arm": "Swinging forward for momentum",
+      "right_leg": "Pushing off the ground",
+      "left_leg": "Bending and swinging forward",
+      "torso": "Leaning slightly forward"
+    }
+  },
+  {
+    "id": "03708",
+    "caption": "baby crawling to the front",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow, reaching forward",
+      "left_arm": "Bent at the elbow, supporting the weight of the body",
+      "right_leg": "Bent at the knee, ready to push off",
+      "left_leg": "Bent at the knee, in contact with the floor",
+      "torso": "Leaning forward, moving towards the front"
+    }
+  },
+  {
+    "id": "03722",
+    "caption": "A person lifts something up using two hands but without bending their knees.",
+    "part_descriptions": {
+      "right_arm": "Raising an object upward",
+      "left_arm": "Assisting in lifting the object",
+      "right_leg": "Straight and stable, not bending",
+      "left_leg": "Straight and stable, not bending",
+      "torso": "Maintaining an upright position"
+    }
+  },
+  {
+    "id": "03732",
+    "caption": "A person takes a couple of forward steps swaying, turns around and walks back.",
+    "part_descriptions": {
+      "right_arm": "Swinging slightly to maintain balance",
+      "left_arm": "Swinging slightly to maintain balance",
+      "right_leg": "Taking a forward step, then another",
+      "left_leg": "Taking a forward step, then another",
+      "torso": "Swaying slightly while turning around"
+    }
+  },
+  {
+    "id": "03813",
+    "caption": "a human walks slowly while bonding forward",
+    "part_descriptions": {
+      "right_arm": "Swinging slowly forward and slightly bent at the elbow",
+      "left_arm": "Swinging slowly forward and slightly bent at the elbow",
+      "right_leg": "Stepping forward with heel touching the ground first",
+      "left_leg": "Bending at the knee and lifting to take the next step",
+      "torso": "Leaning slightly forward with a relaxed posture"
+    }
+  },
+  {
+    "id": "03817",
+    "caption": "A person is walking slowly and strongly bent over forward while repeatedly dragging his arms to his hip.",
+    "part_descriptions": {
+      "right_arm": "Slowly swinging arm inward towards hip",
+      "left_arm": "Slowly swinging arm inward towards hip",
+      "right_leg": "Steady, forward step",
+      "left_leg": "Steady, forward step",
+      "torso": "Bent forward with slight swaying motion"
+    }
+  },
+  {
+    "id": "03832",
+    "caption": "Someonewho  makes a big stept to the right-front.",
+    "part_descriptions": {
+      "right_arm": "Makes a swinging motion to the right side",
+      "left_arm": "Hangs relaxed at the side of the body",
+      "right_leg": "Takes a big step forward, bending at the knee",
+      "left_leg": "Stays in place or moves slightly to maintain balance",
+      "torso": "Leans slightly to the right while stepping forward"
+    }
+  },
+  {
+    "id": "03877",
+    "caption": "A person jumps and rotates 90 degrees to the left while in flight.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward and up in the air",
+      "left_arm": "Swinging backward and down in the air",
+      "right_leg": "Bent at the knee, extended out to the side",
+      "left_leg": "Bent at the knee, drawn up and across the body",
+      "torso": "Twisted to the left, facing downward"
+    }
+  },
+  {
+    "id": "03899",
+    "caption": "A person makes moves like bouncing a basketball and throwing it to a basket.",
+    "part_descriptions": {
+      "right_arm": "Swings down and then up to bounce a basketball",
+      "left_arm": "Swings down and then up to bounce a basketball",
+      "right_leg": "Bends slightly to prepare for bouncing the ball",
+      "left_leg": "Bends slightly to prepare for bouncing the ball",
+      "torso": "Leans forward slightly during the basketball move"
+    }
+  },
+  {
+    "id": "M00006",
+    "caption": "A person goes four and half steps forward.",
+    "part_descriptions": {
+      "right_arm": "Moving forward with each step",
+      "left_arm": "Hanging loosely at sides",
+      "right_leg": "Advancing with each step",
+      "left_leg": "Advancing with each step",
+      "torso": "Maintaining balance and posture"
+    }
+  },
+  {
+    "id": "M00015",
+    "caption": "A person walks backwards.",
+    "part_descriptions": {
+      "right_arm": "Swings backward to maintain balance",
+      "left_arm": "Swings backward to maintain balance",
+      "right_leg": "Steps backward",
+      "left_leg": "Steps backward",
+      "torso": "Leans backward while moving"
+    }
+  },
+  {
+    "id": "M00025",
+    "caption": "A person walking in a circle to the right",
+    "part_descriptions": {
+      "right_arm": "Swinging out to the side and slightly behind the body",
+      "left_arm": "Swinging out to the front and in the opposite direction of the right arm",
+      "right_leg": "Stepping backwards and slightly outwards",
+      "left_leg": "Stepping forwards and slightly inwards",
+      "torso": "Rotating to the right while maintaining an upright position"
+    }
+  },
+  {
+    "id": "M00052",
+    "caption": "the person is walking backwards",
+    "part_descriptions": {
+      "right_arm": "Swinging backward to maintain balance",
+      "left_arm": "Swinging backward to maintain balance",
+      "right_leg": "Stepping back with heel, then toe",
+      "left_leg": "Stepping back with heel, then toe",
+      "torso": "Leaning backward, keeping center of gravity over the backward-moving legs"
+    }
+  },
+  {
+    "id": "M00068",
+    "caption": "Someone walks a left circle.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then back in a circular motion",
+      "left_arm": "Swings backward and then forward in a circular motion",
+      "right_leg": "Moves in a circular path, bending at the knee",
+      "left_leg": "Moves in a circular path, bending at the knee",
+      "torso": "Rotates in a circular motion, maintaining balance"
+    }
+  },
+  {
+    "id": "M00092",
+    "caption": "the person is making a wide turn to the left",
+    "part_descriptions": {
+      "right_arm": "Swinging out to maintain balance",
+      "left_arm": "Swinging behind body to make turn",
+      "right_leg": "Stepping behind left leg for better leverage",
+      "left_leg": "Pivoting on the ball of the foot",
+      "torso": "Twisting to face new direction"
+    }
+  },
+  {
+    "id": "M00093",
+    "caption": "Person walking to the left",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging forward to balance",
+      "right_leg": "Stepping forward",
+      "left_leg": "Bending to take next step",
+      "torso": "Leaning slightly to the left"
+    }
+  },
+  {
+    "id": "M00126",
+    "caption": "A human walking in a circle clockwise",
+    "part_descriptions": {
+      "right_arm": "Swinging forward and then backward in a circular motion",
+      "left_arm": "Swinging forward and then backward in a circular motion in sync with the right arm",
+      "right_leg": "Moving in a circular path, alternating between stepping forward and backward",
+      "left_leg": "Moving in a circular path, alternating steps with the right leg",
+      "torso": "Rotating in a circular motion, maintaining balance and coordinating movements with the legs and arms"
+    }
+  },
+  {
+    "id": "M00143",
+    "caption": "A person turns 90° to the right at medium speed.",
+    "part_descriptions": {
+      "right_arm": "Swings out to the side and slightly behind the body",
+      "left_arm": "Swings inward and across the chest",
+      "right_leg": "Pivots outward and slightly behind the body",
+      "left_leg": "Pivots inward and across the body",
+      "torso": "Rotates to the right, maintaining an upright position"
+    }
+  },
+  {
+    "id": "M00170",
+    "caption": "the person is walking backwards",
+    "part_descriptions": {
+      "right_arm": "Swinging backward to maintain balance",
+      "left_arm": "Swinging backward to maintain balance",
+      "right_leg": "Stepping back with heel, then toe",
+      "left_leg": "Stepping back with heel, then toe",
+      "torso": "Leaning backward, keeping center of gravity over the backward-moving legs"
+    }
+  },
+  {
+    "id": "M00183",
+    "caption": "A person walks in circles.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Stepping forward and then back",
+      "left_leg": "Stepping forward and then back",
+      "torso": "Rotating in a circular motion"
+    }
+  },
+  {
+    "id": "M00222",
+    "caption": "A Person moves backwards",
+    "part_descriptions": {
+      "right_arm": "Moving backward, the right arm is extended behind the body",
+      "left_arm": "Moving backward, the left arm is extended behind the body",
+      "right_leg": "Steps backward with the right foot",
+      "left_leg": "Steps backward with the left foot",
+      "torso": "Leans slightly backward while moving"
+    }
+  },
+  {
+    "id": "M00244",
+    "caption": "A person walks slowly in a circle in counterclockwise direction.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at side",
+      "left_arm": "Hanging loosely at side",
+      "right_leg": "Bent at knee, swinging backward",
+      "left_leg": "Bent at knee, swinging backward",
+      "torso": "Turning slowly in a circle"
+    }
+  },
+  {
+    "id": "M00254",
+    "caption": "a person walks a right turn",
+    "part_descriptions": {
+      "right_arm": "Swings forward to maintain balance",
+      "left_arm": "Swings backward for counterbalance",
+      "right_leg": "Steps forward",
+      "left_leg": "Steps backward",
+      "torso": "Leans slightly in the direction of the turn"
+    }
+  },
+  {
+    "id": "M00270",
+    "caption": "A person takes four steps back.",
+    "part_descriptions": {
+      "right_arm": "Hangs relaxed at side",
+      "left_arm": "Hangs relaxed at side",
+      "right_leg": "Steps back",
+      "left_leg": "Steps back",
+      "torso": "Stays upright"
+    }
+  },
+  {
+    "id": "M00271",
+    "caption": "A subject is walking backward four steps.",
+    "part_descriptions": {
+      "right_arm": "Swinging backward to maintain balance",
+      "left_arm": "Swinging backward to maintain balance",
+      "right_leg": "Stepping back with heel, then toe",
+      "left_leg": "Stepping back with heel, then toe",
+      "torso": "Leaning backward while lifting feet"
+    }
+  },
+  {
+    "id": "M00306",
+    "caption": "A human walks in a right bend.",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow and swinging forward",
+      "left_arm": "Swinging backward in a natural swinging motion",
+      "right_leg": "Striding forward with a slight bend at the knee",
+      "left_leg": "Moving backward, slightly bent at the knee",
+      "torso": "Leaning slightly forward while maintaining an upright posture"
+    }
+  },
+  {
+    "id": "M00311",
+    "caption": "A person walks a quarter circle to the left",
+    "part_descriptions": {
+      "right_arm": "Swings slightly forward and then back in a natural manner",
+      "left_arm": "Swings in a circular motion to the left, leading the body",
+      "right_leg": "Moves backward and then forwards in a walking motion",
+      "left_leg": "Moves in a circular motion to the left, following the right leg",
+      "torso": "Rotates slightly to the left while maintaining balance"
+    }
+  },
+  {
+    "id": "M00331",
+    "caption": "Person standing and then walking back",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at sides",
+      "left_arm": "Hanging loosely at sides",
+      "right_leg": "Bent at knee, foot lifted for step",
+      "left_leg": "Bent at knee, foot off ground for step",
+      "torso": "Upright, balanced"
+    }
+  },
+  {
+    "id": "M00332",
+    "caption": "A person walks backwards",
+    "part_descriptions": {
+      "right_arm": "Swings backward to maintain balance",
+      "left_arm": "Swings backward to maintain balance",
+      "right_leg": "Steps backward",
+      "left_leg": "Steps backward",
+      "torso": "Leans backward while moving"
+    }
+  },
+  {
+    "id": "M00374",
+    "caption": "Person walking to the left",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging forward to balance",
+      "right_leg": "Stepping forward",
+      "left_leg": "Bending to take next step",
+      "torso": "Leaning slightly to the left"
+    }
+  },
+  {
+    "id": "M00427",
+    "caption": "Someone is walking.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Moving forward with each step",
+      "torso": "Moving forward with each step, maintaining balance"
+    }
+  },
+  {
+    "id": "M00432",
+    "caption": "Person walking forwards",
+    "part_descriptions": {
+      "right_arm": "Swinging forwards and slightly bent at the elbow",
+      "left_arm": "Swinging forwards and slightly bent at the elbow",
+      "right_leg": "Moving forwards with a bent knee and pointed toe",
+      "left_leg": "Moving forwards with a bent knee and pointed toe",
+      "torso": "Leaning slightly forward with a straight back"
+    }
+  },
+  {
+    "id": "M00476",
+    "caption": "A person walks forward, turns on the spot and walks back.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at sides during walking and remains relaxed during turn",
+      "left_arm": "Swings naturally at sides during walking and remains relaxed during turn",
+      "right_leg": "Advances forward during first part of action, bends slightly during turn, then steps back",
+      "left_leg": "Advances forward during first part of action, bends slightly during turn, then steps back",
+      "torso": "Leans slightly forward during walking, remains upright during turn"
+    }
+  },
+  {
+    "id": "M00491",
+    "caption": "A peron makes a turn to the right.",
+    "part_descriptions": {
+      "right_arm": "Swings out to the side",
+      "left_arm": "Hangs at the side",
+      "right_leg": "Steps behind and bends slightly",
+      "left_leg": "Pivots and remains bent",
+      "torso": "Pivots to the right"
+    }
+  },
+  {
+    "id": "M00498",
+    "caption": "A human walking slowly",
+    "part_descriptions": {
+      "right_arm": "Swinging slowly and naturally by the side",
+      "left_arm": "Swinging slowly and naturally by the side",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Moving forward with each step",
+      "torso": "Leaning slightly forward with each step"
+    }
+  },
+  {
+    "id": "M00510",
+    "caption": "Someone sprints a few steps and stops then.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then bends at the elbow to pump body forward",
+      "left_arm": "Swings forward and then bends at the elbow to pump body forward",
+      "right_leg": "Bends at the knee and pushes off the ground, then quickly straightens",
+      "left_leg": "Bends at the knee and pushes off the ground, then quickly straightens",
+      "torso": "Leans slightly forward, then returns to an upright position"
+    }
+  },
+  {
+    "id": "M00539",
+    "caption": "A person walks forward very slowly",
+    "part_descriptions": {
+      "right_arm": "Swinging slowly next to body",
+      "left_arm": "Swinging slowly next to body",
+      "right_leg": "Stepping forward slowly",
+      "left_leg": "Stepping forward slowly",
+      "torso": "Moving forward slowly and deliberately"
+    }
+  },
+  {
+    "id": "M00549",
+    "caption": "a person walks and stops.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward, then bending to stop",
+      "left_leg": "Moving forward, then bending to stop",
+      "torso": "Moving forward with each step, then coming to a halt"
+    }
+  },
+  {
+    "id": "M00582",
+    "caption": "Subject walks in a quarter circle clockwise.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then back, parallel to the ground",
+      "left_arm": "Swings backward and then forward, parallel to the ground",
+      "right_leg": "Moves in a quarter circle clockwise, bending at the knee",
+      "left_leg": "Moves in a quarter circle clockwise, bending at the knee",
+      "torso": "Rotates in a quarter circle clockwise, pivoting on the feet"
+    }
+  },
+  {
+    "id": "M00589",
+    "caption": "A person is running forwards very fast.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward for a quick stride",
+      "left_arm": "Swinging forward in sync with the right",
+      "right_leg": "Bent at the knee, pushing off the ground",
+      "left_leg": "Bent at the knee, preparing for the next stride",
+      "torso": "Leaning slightly forward, moving rapidly"
+    }
+  },
+  {
+    "id": "M00605",
+    "caption": "a person makes a hand stand",
+    "part_descriptions": {
+      "right_arm": "Supporting body weight with outstretched hand",
+      "left_arm": "Hanging in the air, not supporting weight",
+      "right_leg": "Bent at knee, foot pointing up",
+      "left_leg": "Straight, foot pointing down",
+      "torso": "Upright, engaged in balancing act"
+    }
+  },
+  {
+    "id": "M00612",
+    "caption": "A person makes a step forward and then performs a high kick with their left leg.",
+    "part_descriptions": {
+      "right_arm": "Hangs relaxed at side",
+      "left_arm": "Swings backward for balance",
+      "right_leg": "Stands still",
+      "left_leg": "Steps forward and then kicks up, bending at the knee",
+      "torso": "Leans slightly forward during the step and then returns to upright position"
+    }
+  },
+  {
+    "id": "M00646",
+    "caption": "Someone walks two steps, turns and walks back.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at sides with each step",
+      "left_arm": "Swings naturally at sides with each step",
+      "right_leg": "Takes a step forward, then another step",
+      "left_leg": "Takes a step forward, then another step",
+      "torso": "Moves forward with each step, turns around midway"
+    }
+  },
+  {
+    "id": "M00685",
+    "caption": "human walks about five steps forward starting with the left leg",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at side",
+      "left_arm": "Moves forward, then swings",
+      "right_leg": "Stays still during step",
+      "left_leg": "Takes five steps forward",
+      "torso": "Leans slightly forward"
+    }
+  },
+  {
+    "id": "M00690",
+    "caption": "A person punches five times, beginning with the right hand and ending with the right hand.",
+    "part_descriptions": {
+      "right_arm": "Swings the right arm forward to punch",
+      "left_arm": "Rest during the punching sequence",
+      "right_leg": "Stands stable with weight distributed evenly",
+      "left_leg": "Stands stable with weight distributed evenly",
+      "torso": "Rotates slightly with each punch, maintaining balance"
+    }
+  },
+  {
+    "id": "M00691",
+    "caption": "A person walks fast 4 steps forward.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward in coordination with left arm for balance",
+      "left_arm": "Swinging forward in coordination with right arm for balance",
+      "right_leg": "Moving quickly forward and then back for the next step",
+      "left_leg": "Moving quickly forward and then back for the next step",
+      "torso": "Leaning slightly forward with each step, maintaining balance"
+    }
+  },
+  {
+    "id": "M00709",
+    "caption": "A person starts sprinting and then stops.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then returns to resting position",
+      "left_arm": "Swings forward and then returns to resting position",
+      "right_leg": "Bends at the knee and pushes off the ground, then comes to a halt",
+      "left_leg": "Bends at the knee and pushes off the ground, then comes to a halt",
+      "torso": "Leans forward during sprinting and then returns to an upright position"
+    }
+  },
+  {
+    "id": "M00728",
+    "caption": "A person walks forward, turns on the spot and walks back.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at sides during walking and remains relaxed during turn",
+      "left_arm": "Swings naturally at sides during walking and remains relaxed during turn",
+      "right_leg": "Advances forward during first part of action, bends slightly during turn, then steps back",
+      "left_leg": "Advances forward during first part of action, bends slightly during turn, then steps back",
+      "torso": "Leans slightly forward during walking, remains upright during turn"
+    }
+  },
+  {
+    "id": "M00733",
+    "caption": "A person is making a sharp turn.",
+    "part_descriptions": {
+      "right_arm": "Swinging out to maintain balance",
+      "left_arm": "Swinging inward for support",
+      "right_leg": "Bending at the knee and pushing off",
+      "left_leg": "Bending at the knee and pivoting",
+      "torso": "Twisting to complete the turn"
+    }
+  },
+  {
+    "id": "M00754",
+    "caption": "human goes forward starting with left",
+    "part_descriptions": {
+      "right_arm": "Moving backward to maintain balance",
+      "left_arm": "Swinging forward to initiate movement",
+      "right_leg": "Stationary",
+      "left_leg": "Moving forward to take a step",
+      "torso": "Leaning slightly forward"
+    }
+  },
+  {
+    "id": "M00764",
+    "caption": "A person walks a quarter circle counterclockwise with 4 steps.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at sides with each step",
+      "left_arm": "Swings naturally at sides with each step",
+      "right_leg": "Moves forward and bends slightly with each step",
+      "left_leg": "Moves forward and bends slightly with each step",
+      "torso": "Rotates counterclockwise with each step"
+    }
+  },
+  {
+    "id": "M00834",
+    "caption": "Someone walks forward and turns around.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then falls to sides as person turns around",
+      "left_arm": "Swings forward and then falls to sides as person turns around",
+      "right_leg": "Steps forward and then swings back as person turns around",
+      "left_leg": "Steps forward and then swings back as person turns around",
+      "torso": "Rotates 180 degrees to face opposite direction"
+    }
+  },
+  {
+    "id": "M00841",
+    "caption": "A person is strolling along at a leisurely pace taking his time to look around.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Swinging forward with each step",
+      "left_leg": "Swinging forward with each step",
+      "torso": "Leaning slightly forward, looking around"
+    }
+  },
+  {
+    "id": "M00873",
+    "caption": "A person walks 2 steps forward, turns 180 degrees on the left foot and walks again 2 steps forward.",
+    "part_descriptions": {
+      "right_arm": "Swings forward with each step, then hangs loose during turn",
+      "left_arm": "Swings opposite to right arm during turn, then swings forward with each step",
+      "right_leg": "Takes a step forward, then bends slightly during turn, then takes another step forward",
+      "left_leg": "Stays stationary during turn, then takes a step forward, then bends slightly",
+      "torso": "Rotates 180 degrees during turn, keeping balance"
+    }
+  },
+  {
+    "id": "M00897",
+    "caption": "A person walks forward.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward",
+      "left_leg": "Moving forward",
+      "torso": "Moving forward"
+    }
+  },
+  {
+    "id": "M00905",
+    "caption": "A person walks forward",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward",
+      "left_leg": "Moving forward",
+      "torso": "Advancing forward"
+    }
+  },
+  {
+    "id": "M00908",
+    "caption": "A person walks 4 steps forward.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at sides with each step",
+      "left_arm": "Swings naturally at sides with each step",
+      "right_leg": "Moves forward, bends slightly at knee and hip",
+      "left_leg": "Moves forward, bends slightly at knee and hip",
+      "torso": "Leans slightly forward with each step"
+    }
+  },
+  {
+    "id": "M00909",
+    "caption": "A person walks forwards fast.",
+    "part_descriptions": {
+      "right_arm": "Swinging forwards and slightly bent at the elbow",
+      "left_arm": "Swinging forwards and slightly bent at the elbow",
+      "right_leg": "Striding forwards with heel touching the ground",
+      "left_leg": "Striding forwards with heel touching the ground",
+      "torso": "Leaning slightly forward with each step"
+    }
+  },
+  {
+    "id": "M00918",
+    "caption": "A person joggs a few steps forward.",
+    "part_descriptions": {
+      "right_arm": "Swings forward in a running motion",
+      "left_arm": "Swings forward in a running motion",
+      "right_leg": "Bends at the knee and pushes off the ground",
+      "left_leg": "Bends at the knee and swings forward",
+      "torso": "Leans slightly forward, moving with the legs"
+    }
+  },
+  {
+    "id": "M00922",
+    "caption": "A person runs forward.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward for balance",
+      "left_arm": "Swinging forward for momentum",
+      "right_leg": "Bent at the knee, pushing off the ground",
+      "left_leg": "Bent at the knee, preparing to swing forward",
+      "torso": "Leaning slightly forward, moving quickly"
+    }
+  },
+  {
+    "id": "M00943",
+    "caption": "A person makes four steps forward in a quarter circle to the right.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and outward",
+      "left_arm": "Swings forward and outward in a circular motion",
+      "right_leg": "Takes a step forward, then another in a diagonal line to the right",
+      "left_leg": "Takes a step forward, then another in a diagonal line to the right",
+      "torso": "Rotates slightly to the right with each step"
+    }
+  },
+  {
+    "id": "M00954",
+    "caption": "A human walking back and forward in a straight line",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward and back",
+      "left_leg": "Moving forward and back",
+      "torso": "Moving forward and back in a straight line"
+    }
+  },
+  {
+    "id": "M00964",
+    "caption": "A person walks forward.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward",
+      "left_leg": "Moving forward",
+      "torso": "Moving forward"
+    }
+  },
+  {
+    "id": "M00967",
+    "caption": "Someone pretends to start running but then walks instead.",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow with a flexed hand, ready for running",
+      "left_arm": "Bent at the elbow with a flexed hand, ready for running",
+      "right_leg": "Bent at the knee with toes pointed forward, prepared to push off",
+      "left_leg": "Bent at the knee with toes pointed forward, prepared to push off",
+      "torso": "Leans slightly forward, ready to transfer weight to legs for running"
+    }
+  },
+  {
+    "id": "M00981",
+    "caption": "Person walking to the left",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging forward to balance",
+      "right_leg": "Stepping forward",
+      "left_leg": "Bending to take next step",
+      "torso": "Leaning slightly to the left"
+    }
+  },
+  {
+    "id": "M00983",
+    "caption": "Subject is walking in a quarter circle counterclockwise.",
+    "part_descriptions": {
+      "right_arm": "Swinging to the side and slightly behind the body",
+      "left_arm": "Swinging to the front and slightly in front of the body",
+      "right_leg": "Stepping back and slightly to the right",
+      "left_leg": "Stepping forward and slightly to the left",
+      "torso": "Rotating counterclockwise while maintaining an upright position"
+    }
+  },
+  {
+    "id": "M00988",
+    "caption": "A human walks to the right.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Stepping forward",
+      "left_leg": "Stationary",
+      "torso": "Moving to the right"
+    }
+  },
+  {
+    "id": "M01001",
+    "caption": "A person doing 2 steps forward, while turning around on the second step in one motion and doing one step forward again from this position, so that it stand at the starting place againg, while facing the opposite direction",
+    "part_descriptions": {
+      "right_arm": "Swings right arm forward and then across body during turn",
+      "left_arm": "Swings left arm forward and then across body during turn",
+      "right_leg": "Takes two steps forward, then bends and steps back with right foot",
+      "left_leg": "Takes two steps forward, then bends and steps back with left foot",
+      "torso": "Rotates counter-clockwise during turn"
+    }
+  },
+  {
+    "id": "M01006",
+    "caption": "a person is walking forward and doing a right u-turn and walks back",
+    "part_descriptions": {
+      "right_arm": "Swinging right arm forward and then across the body during turn",
+      "left_arm": "Swinging left arm forward and then across the body during turn",
+      "right_leg": "Stepping forward, then pivoting on the ball of the foot and pushing off with the heel to complete the turn, then stepping back",
+      "left_leg": "Stepping forward, then pivoting on the ball of the foot and pushing off with the heel to complete the turn, then stepping back",
+      "torso": "Twisting to the right during the turn, then returning to facing forward"
+    }
+  },
+  {
+    "id": "M01016",
+    "caption": "Person stumbling to the right",
+    "part_descriptions": {
+      "right_arm": "Swinging out for balance",
+      "left_arm": "Hanging by side for support",
+      "right_leg": "Stepping back and slightly out",
+      "left_leg": "Bending and stepping in the same direction as the stumble",
+      "torso": "Leaning to the right while trying to regain balance"
+    }
+  },
+  {
+    "id": "M01030",
+    "caption": "A human is walking forward.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward",
+      "left_leg": "Moving forward",
+      "torso": "Moving forward"
+    }
+  },
+  {
+    "id": "M01070",
+    "caption": "A person is turning a right corner",
+    "part_descriptions": {
+      "right_arm": "Swinging out to maintain balance",
+      "left_arm": "Swinging inward to stabilize the body",
+      "right_leg": "Stepping behind the body to pivot",
+      "left_leg": "Bending slightly to allow the right leg to step",
+      "torso": "Twisting to face the new direction"
+    }
+  },
+  {
+    "id": "M01073",
+    "caption": "A person walks clockwise a quarter of a small circle.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then back, in sync with left arm",
+      "left_arm": "Swings forward and then back, in sync with right arm",
+      "right_leg": "Steps forward, then bends and swings back",
+      "left_leg": "Steps forward, then bends and swings back",
+      "torso": "Rotates clockwise, maintaining balance during circle"
+    }
+  },
+  {
+    "id": "M01092",
+    "caption": "Subject walks forward spins around and walks back.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then circles around during spin",
+      "left_arm": "Swings forward and then circles around during spin",
+      "right_leg": "Moves forward during walk, then returns to starting position",
+      "left_leg": "Moves forward during walk, then returns to starting position",
+      "torso": "Rotates 360 degrees during spin"
+    }
+  },
+  {
+    "id": "M01097",
+    "caption": "A person walks 2 steps forward, turns 180 degrees on the right foot and walks again 2 steps forward.",
+    "part_descriptions": {
+      "right_arm": "Swings forward with each step, then hangs loose during turn",
+      "left_arm": "Swings opposite to right arm with each step, then assists in turn",
+      "right_leg": "Takes two steps forward, then bends slightly during turn",
+      "left_leg": "Takes two steps forward, then bends slightly during turn",
+      "torso": "Rotates 180 degrees during turn, keeping balance"
+    }
+  },
+  {
+    "id": "M01118",
+    "caption": "A person stumbling to the right",
+    "part_descriptions": {
+      "right_arm": "Swinging out to regain balance",
+      "left_arm": "Hanging by side for support",
+      "right_leg": "Stepping back to recover footing",
+      "left_leg": "Bending slightly to absorb impact",
+      "torso": "Leaning to the right while trying to regain balance"
+    }
+  },
+  {
+    "id": "M01123",
+    "caption": "A person performs a sluggish step to the right.",
+    "part_descriptions": {
+      "right_arm": "Hangs loosely at side",
+      "left_arm": "Swings slightly backward",
+      "right_leg": "Moves slowly to the right",
+      "left_leg": "Stays in place",
+      "torso": "Leans slightly to the right"
+    }
+  },
+  {
+    "id": "M01176",
+    "caption": "A person moves 1-2 m forward very slowly.",
+    "part_descriptions": {
+      "right_arm": "Moving slowly forward, the right arm is relaxed at the side",
+      "left_arm": "Moving slowly forward, the left arm is relaxed at the side",
+      "right_leg": "Takes a small step forward with the right leg",
+      "left_leg": "Stays in place, supporting the upper body",
+      "torso": "Leans slightly forward while moving slowly"
+    }
+  },
+  {
+    "id": "M01177",
+    "caption": "A human walks slowly forward..",
+    "part_descriptions": {
+      "right_arm": "Swinging slowly forward in sync with left arm",
+      "left_arm": "Swinging slowly forward in sync with right arm",
+      "right_leg": "Moving forward with heel touching the ground first",
+      "left_leg": "Moving forward with heel touching the ground first",
+      "torso": "Leaning slightly forward with a straight back"
+    }
+  },
+  {
+    "id": "M01209",
+    "caption": "A person dances Waltz.",
+    "part_descriptions": {
+      "right_arm": "Moves in a circular motion, slightly bent and held close to the body",
+      "left_arm": "Moves in a circular motion, slightly bent and held close to the body, opposite the right arm",
+      "right_leg": "Steps forward and backward in a smooth, rhythmic manner",
+      "left_leg": "Steps forward and backward in a smooth, rhythmic manner, opposite the right leg",
+      "torso": "Moves in a fluid, swaying motion, bending slightly forward and backward"
+    }
+  },
+  {
+    "id": "M01264",
+    "caption": "A person takes a deep bow.",
+    "part_descriptions": {
+      "right_arm": "Bent and lowered to the side",
+      "left_arm": "Bent and lowered to the opposite side",
+      "right_leg": "Straight and slightly bent at the knee",
+      "left_leg": "Straight and slightly bent at the knee",
+      "torso": "Bent forward from the hips"
+    }
+  },
+  {
+    "id": "M01282",
+    "caption": "A person performs a low kick with his left foot.",
+    "part_descriptions": {
+      "right_arm": "Hanging relaxed at side",
+      "left_arm": "Swinging backward for balance",
+      "right_leg": "Bent at knee, foot off ground",
+      "left_leg": "Straight, kicking forward",
+      "torso": "Leaning slightly forward, stable"
+    }
+  },
+  {
+    "id": "M01299",
+    "caption": "A person performs a punching motion.",
+    "part_descriptions": {
+      "right_arm": "Moves forward and up in a punching motion",
+      "left_arm": "Remains at side or protects the face",
+      "right_leg": "Stands stable and firm on the ground",
+      "left_leg": "Stands stable and firm on the ground",
+      "torso": "Twists and rotates slightly towards the punching direction"
+    }
+  },
+  {
+    "id": "M01319",
+    "caption": "Subject jumps once.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and up during the jump",
+      "left_arm": "Swings forward and up in synchronization",
+      "right_leg": "Bends at the knee and pushes off the ground",
+      "left_leg": "Bends at the knee and swings forward in the air",
+      "torso": "Lifts off the ground, then returns to a standing position"
+    }
+  },
+  {
+    "id": "M01369",
+    "caption": "A Person doing a tennis racket like movement",
+    "part_descriptions": {
+      "right_arm": "Bending at the elbow and holding a tennis racket with an open palm",
+      "left_arm": "Relaxed at the side of the body",
+      "right_leg": "Slightly bent, ready to step forward",
+      "left_leg": "Bent at the knee and slightly lifted, preparing for a lunge",
+      "torso": "Leaning slightly forward, core engaged for balance"
+    }
+  },
+  {
+    "id": "M01407",
+    "caption": "Subject waves with both hands.",
+    "part_descriptions": {
+      "right_arm": "Moving in a waving motion",
+      "left_arm": "Moving in a synchronous waving motion",
+      "right_leg": "Stationary",
+      "left_leg": "Stationary",
+      "torso": "Remains relatively still"
+    }
+  },
+  {
+    "id": "M01409",
+    "caption": "Someone waves with both hands.",
+    "part_descriptions": {
+      "right_arm": "Moving up and down in a waving motion",
+      "left_arm": "Moving up and down in a waving motion",
+      "right_leg": "Stationary",
+      "left_leg": "Stationary",
+      "torso": "Stationary"
+    }
+  },
+  {
+    "id": "M01412",
+    "caption": "a person waves with both of his hands",
+    "part_descriptions": {
+      "right_arm": "moving up and down in a waving motion",
+      "left_arm": "moving up and down in a waving motion",
+      "right_leg": "stationary",
+      "left_leg": "stationary",
+      "torso": "stationary"
+    }
+  },
+  {
+    "id": "M01418",
+    "caption": "A human playing a guitar",
+    "part_descriptions": {
+      "right_arm": "Strumming the guitar strings",
+      "left_arm": "Supporting the neck of the guitar",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Leaning forward towards the guitar"
+    }
+  },
+  {
+    "id": "M01428",
+    "caption": "a human plays guitar.",
+    "part_descriptions": {
+      "right_arm": "Strums the guitar strings",
+      "left_arm": "Supports the neck of the guitar",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Leans forward and maintains balance"
+    }
+  },
+  {
+    "id": "M01429",
+    "caption": "Person playing the air guitar",
+    "part_descriptions": {
+      "right_arm": "Mimicking holding a guitar, bent at the elbow",
+      "left_arm": "Mimicking holding a guitar, bent at the elbow",
+      "right_leg": "Standing position, weight on the ball of the foot",
+      "left_leg": "Standing position, weight on the ball of the foot",
+      "torso": "Upright, slight bending at the waist"
+    }
+  },
+  {
+    "id": "M01443",
+    "caption": "A human plays air guitar.",
+    "part_descriptions": {
+      "right_arm": "Mimicking playing a guitar, right arm is extended and moves up and down in the air",
+      "left_arm": "Mimicking playing a guitar, left arm is extended and moves up and down in the air",
+      "right_leg": "undefined",
+      "left_leg": "undefined",
+      "torso": "The torso remains relatively still during the action"
+    }
+  },
+  {
+    "id": "M01447",
+    "caption": "A person plays air guitar.",
+    "part_descriptions": {
+      "right_arm": "Mimicking playing a guitar",
+      "left_arm": "Resting at side or mimicking strumming a guitar",
+      "right_leg": "Stationary",
+      "left_leg": "Stationary",
+      "torso": "Leaning forward or swaying to the rhythm"
+    }
+  },
+  {
+    "id": "M01479",
+    "caption": "A person plays the violin",
+    "part_descriptions": {
+      "right_arm": "Holds the bow and applies pressure to the strings",
+      "left_arm": "Supports the instrument's neck and adjusts the bow",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Leans forward slightly, maintaining balance and stability"
+    }
+  },
+  {
+    "id": "M01483",
+    "caption": "A person wipes a circle on a waist high surface.",
+    "part_descriptions": {
+      "right_arm": "Hangs relaxed at side",
+      "left_arm": "Hangs relaxed at side",
+      "right_leg": "Stands straight",
+      "left_leg": "Stands straight",
+      "torso": "Leans slightly forward, bending at waist"
+    }
+  },
+  {
+    "id": "M01494",
+    "caption": "A person doing a wiping or stirring movement with the left hand",
+    "part_descriptions": {
+      "right_arm": "Hanging relaxed at the side",
+      "left_arm": "Making a wiping or stirring motion",
+      "right_leg": "Slightly bent with foot on the ground",
+      "left_leg": "Slightly bent with foot on the ground",
+      "torso": "Upright with neutral posture"
+    }
+  },
+  {
+    "id": "M01503",
+    "caption": "A person wipes two times in a circle on a waist high surface.",
+    "part_descriptions": {
+      "right_arm": "Hangs loosely at the side",
+      "left_arm": "Hangs loosely at the side",
+      "right_leg": "Stands straight",
+      "left_leg": "Stands straight",
+      "torso": "Leans slightly forward, twisting waist in a circular motion"
+    }
+  },
+  {
+    "id": "M01587",
+    "caption": "A person goes four and a half steps forward while looking at their feet.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Moving forward with each step",
+      "torso": "Leaning slightly forward while looking at feet"
+    }
+  },
+  {
+    "id": "M01655",
+    "caption": "A person is standing straight upleft with their arms streched out sideways.",
+    "part_descriptions": {
+      "right_arm": "extended straight to the side",
+      "left_arm": "extended straight to the side",
+      "right_leg": "straight and slightly apart",
+      "left_leg": "straight and slightly apart",
+      "torso": "upright and straight"
+    }
+  },
+  {
+    "id": "M01664",
+    "caption": "A person goes around",
+    "part_descriptions": {
+      "right_arm": "Swings freely at the side of the body",
+      "left_arm": "Swings freely at the side of the body",
+      "right_leg": "Moves in a circular motion",
+      "left_leg": "Moves in a circular motion",
+      "torso": "Rotates as the person goes around"
+    }
+  },
+  {
+    "id": "M01700",
+    "caption": "A person stumbling to the right.",
+    "part_descriptions": {
+      "right_arm": "Swinging out to regain balance",
+      "left_arm": "Hanging at side for support",
+      "right_leg": "Stepping back to recover footing",
+      "left_leg": "Bent, preparing for next step",
+      "torso": "Leaning to the right, trying to maintain balance"
+    }
+  },
+  {
+    "id": "M01703",
+    "caption": "A person makes a step to the right.",
+    "part_descriptions": {
+      "right_arm": "Swings slightly backward and then forwards",
+      "left_arm": "Hangs relaxed at side",
+      "right_leg": "Moves to the right and slightly bends at the knee",
+      "left_leg": "Stays in place, slightly bends at the knee",
+      "torso": "Leans slightly to the right during the step"
+    }
+  },
+  {
+    "id": "M01745",
+    "caption": "A person is pushed from left.",
+    "part_descriptions": {
+      "right_arm": "Hanging at side of body",
+      "left_arm": "Raised to protect self from push",
+      "right_leg": "Bent at knee, foot on ground",
+      "left_leg": "Straight, slightly off balance",
+      "torso": "Leaning back, weight shifted to left foot"
+    }
+  },
+  {
+    "id": "M01762",
+    "caption": "a person walks forwards",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward, bent at knee",
+      "left_leg": "Moving forward, bent at knee",
+      "torso": "Moving forward, upright posture"
+    }
+  },
+  {
+    "id": "M01794",
+    "caption": "A person walks straight, recovers from a hard pushed from the right, and returns to the original path.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at side during walk, then pushes against unseen force, returns to side",
+      "left_arm": "Swings naturally at side during walk, then maintains position, returns to side",
+      "right_leg": "Steps forward in regular gait, then bends slightly to absorb force, resumes walking",
+      "left_leg": "Steps forward in regular gait, then supports weight, resumes walking",
+      "torso": "Maintains balance during walk, then leans slightly to counteract force, returns to upright position"
+    }
+  },
+  {
+    "id": "M01795",
+    "caption": "Person walking forwards and then stumbling",
+    "part_descriptions": {
+      "right_arm": "Swinging forwards and slightly out to regain balance",
+      "left_arm": "Swinging forwards to maintain momentum",
+      "right_leg": "Stepping forwards and then lifting to catch balance",
+      "left_leg": "Stepping forwards and then bending to prevent falling",
+      "torso": "Leaning slightly forwards and then leaning back to regain balance"
+    }
+  },
+  {
+    "id": "M01809",
+    "caption": "the person is pushed to the left",
+    "part_descriptions": {
+      "right_arm": "Hanging relaxed at side",
+      "left_arm": "Hanging relaxed at side",
+      "right_leg": "Flexed at knee, foot flat on ground",
+      "left_leg": "Flexed at knee, foot off the ground, moving back",
+      "torso": "Leaning to the left"
+    }
+  },
+  {
+    "id": "M01825",
+    "caption": "A person stumbles backwards.",
+    "part_descriptions": {
+      "right_arm": "Swings backward for balance",
+      "left_arm": "Swings backward for balance",
+      "right_leg": "Steps backward",
+      "left_leg": "Steps backward",
+      "torso": "Leans backward to maintain balance"
+    }
+  },
+  {
+    "id": "M01834",
+    "caption": "A person pushed from the back",
+    "part_descriptions": {
+      "right_arm": "Pushed backward by an external force",
+      "left_arm": "Hanging at side or pushed backward by an external force",
+      "right_leg": "Straightened or slightly bent, ready to support body",
+      "left_leg": "Straightened or slightly bent, ready to support body",
+      "torso": "Leaning or pushed backward"
+    }
+  },
+  {
+    "id": "M01836",
+    "caption": "A person gets pushed forward approximately 1 meter.",
+    "part_descriptions": {
+      "right_arm": "Moved forward along with the person's body",
+      "left_arm": "Moved forward along with the person's body",
+      "right_leg": "Advanced approximately 1 meter forward",
+      "left_leg": "Advanced approximately 1 meter forward",
+      "torso": "Moved approximately 1 meter forward"
+    }
+  },
+  {
+    "id": "M01877",
+    "caption": "A person walks forward, gets pushed from the right and performs a sidestep.",
+    "part_descriptions": {
+      "right_arm": "Swings forward to maintain balance",
+      "left_arm": "Swings forward with the motion of walking",
+      "right_leg": "Steps forward as part of the initial walk",
+      "left_leg": "Steps forward in synchronization with the right leg",
+      "torso": "Leans slightly forward during the walk"
+    }
+  },
+  {
+    "id": "M01905",
+    "caption": "A person is dancing.",
+    "part_descriptions": {
+      "right_arm": "Moving up and down in rhythmic motions",
+      "left_arm": "Moving up and down in rhythmic motions",
+      "right_leg": "Bending and straightening in time with music",
+      "left_leg": "Bending and straightening in time with music",
+      "torso": "Moving back and forth, twisting side to side"
+    }
+  },
+  {
+    "id": "M01931",
+    "caption": "Subject walks and then sidesteps right and walks again.",
+    "part_descriptions": {
+      "right_arm": "Swings naturally at side during walk and step",
+      "left_arm": "Swings naturally at side during walk and step",
+      "right_leg": "Takes a step forward, then pivots on heel and steps out to the right",
+      "left_leg": "Takes a step forward, then remains planted during right sidestep",
+      "torso": "Moves forward with each step, maintaining balance during sidestep"
+    }
+  },
+  {
+    "id": "M01948",
+    "caption": "A person makes one big step an one small step backwards.",
+    "part_descriptions": {
+      "right_arm": "Hangs loosely at side",
+      "left_arm": "Hangs loosely at side",
+      "right_leg": "Takes a big step back",
+      "left_leg": "Stands still, then takes a small step back",
+      "torso": "Leans slightly backward"
+    }
+  },
+  {
+    "id": "M01975",
+    "caption": "A person turns 90° to the left at medium speed.",
+    "part_descriptions": {
+      "right_arm": "Swings out to the side and slightly behind the body",
+      "left_arm": "Swings in front of the body and across the abdomen",
+      "right_leg": "Pivots to the left, bending at the knee and hip",
+      "left_leg": "Stays planted and provides stability during the turn",
+      "torso": "Twists to the left, keeping the core engaged for balance"
+    }
+  },
+  {
+    "id": "M01992",
+    "caption": "A person walks forwards, turns around a walks back.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then swings backward in a walking motion",
+      "left_arm": "Swings forward and then swings backward in a walking motion",
+      "right_leg": "Takes a step forward, then lifts and swings backward during turnaround",
+      "left_leg": "Takes a step forward, then lifts and swings backward during turnaround",
+      "torso": "Leans slightly forward during walking, then twists to face opposite direction"
+    }
+  },
+  {
+    "id": "M01995",
+    "caption": "A person is walking forward then making a sharp turn.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward and then bending at the elbow to balance during the turn",
+      "left_arm": "Swinging forward and then bending at the elbow to balance during the turn",
+      "right_leg": "Stepping forward and then pivoting on the ball of the foot during the turn",
+      "left_leg": "Stepping forward and then pivoting on the ball of the foot during the turn",
+      "torso": "Twisting and leaning in the direction of the turn"
+    }
+  },
+  {
+    "id": "M02048",
+    "caption": "The human subject kneels down on the floor.",
+    "part_descriptions": {
+      "right_arm": "Hangs loosely at the side of the body",
+      "left_arm": "Hangs loosely at the side of the body",
+      "right_leg": "Bent at the knee, foot placed on the floor",
+      "left_leg": "Bent at the knee, foot placed on the floor",
+      "torso": "Leans forward, close to the floor"
+    }
+  },
+  {
+    "id": "M02110",
+    "caption": "Someone goes down on his knees",
+    "part_descriptions": {
+      "right_arm": "Bent and placed on the knee of the right leg",
+      "left_arm": "Bent and placed on the knee of the left leg",
+      "right_leg": "Bent at the knee and supporting the body's weight",
+      "left_leg": "Bent at the knee and supporting the body's weight",
+      "torso": "Leaning forward with the knees"
+    }
+  },
+  {
+    "id": "M02118",
+    "caption": "A person performs a jump and then walks forward at medium speed.",
+    "part_descriptions": {
+      "right_arm": "Swings forward during jump and then hangs loosely at side while walking",
+      "left_arm": "Swings forward during jump and then hangs loosely at side while walking",
+      "right_leg": "Lifts off the ground during jump and then swings forward in a marching motion",
+      "left_leg": "Lifts off the ground during jump and then swings forward in a marching motion",
+      "torso": "Rises during jump and then leans slightly forward while walking"
+    }
+  },
+  {
+    "id": "M02121",
+    "caption": "A person jumps up then walks forward two steps.",
+    "part_descriptions": {
+      "right_arm": "Swings forward during jump, then hangs loosely at sides while walking",
+      "left_arm": "Swings forward during jump, then hangs loosely at sides while walking",
+      "right_leg": "Lifts off the ground during jump, then steps forward twice",
+      "left_leg": "Lifts off the ground during jump, then steps forward twice",
+      "torso": "Rises during jump, then moves forward with each step"
+    }
+  },
+  {
+    "id": "M02171",
+    "caption": "A person picks something up with the left hand, passes it over to the right hand and finally puts it back down.",
+    "part_descriptions": {
+      "right_arm": "Holds the object after receiving it from the left hand",
+      "left_arm": "Picks up the object and passes it to the right hand",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Stays still during the action"
+    }
+  },
+  {
+    "id": "M02184",
+    "caption": "A person raises both arms on the side of his body and moves them back down",
+    "part_descriptions": {
+      "right_arm": "Raising to the side and then lowering",
+      "left_arm": "Raising to the side and then lowering",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Undefined"
+    }
+  },
+  {
+    "id": "M02315",
+    "caption": "A person moving fast forward while looking down.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely by his side",
+      "left_arm": "Hanging loosely by his side",
+      "right_leg": "Stride forward, bent at knee",
+      "left_leg": "Stride forward, bent at knee",
+      "torso": "Leaning slightly forward, looking down"
+    }
+  },
+  {
+    "id": "M02322",
+    "caption": "A person hops 4 times on the right leg forward",
+    "part_descriptions": {
+      "right_arm": "Swings freely at the side",
+      "left_arm": "Hangs relaxed at the side",
+      "right_leg": "Bends at the knee and hip, then pushes off the ground, followed by another bend and push to hop forward",
+      "left_leg": "Remains bent and stationary during the hop",
+      "torso": "Leans slightly forward with each hop"
+    }
+  },
+  {
+    "id": "M02418",
+    "caption": "A human walks backwards with a stoop.",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow and swinging backward",
+      "left_arm": "Bent at the elbow and swinging backward",
+      "right_leg": "Bent at the knee and stepping backward",
+      "left_leg": "Bent at the knee and stepping backward",
+      "torso": "Leaning forward with a stooped posture"
+    }
+  },
+  {
+    "id": "M02499",
+    "caption": "A human walks holding her left upper leg with both hands.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at her side",
+      "left_arm": "Supporting and holding her left upper leg",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Frozen in position, held by both hands",
+      "torso": "Upright and balanced, transferring weight between legs"
+    }
+  },
+  {
+    "id": "M02593",
+    "caption": "A person first walks, then crawls on all fours and then walks again.",
+    "part_descriptions": {
+      "right_arm": "undefined",
+      "left_arm": "undefined",
+      "right_leg": "undefined",
+      "left_leg": "undefined",
+      "torso": "undefined"
+    }
+  },
+  {
+    "id": "M02598",
+    "caption": "A human slowly walks two steps.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Advancing forward with each step",
+      "left_leg": "Advancing forward with each step",
+      "torso": "Moving forward with a slow and steady gait"
+    }
+  },
+  {
+    "id": "M02606",
+    "caption": "A person is carefully and slowly moving forward and then turns 180 degrees to walk back again.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at the side",
+      "left_arm": "Hanging loosely at the side",
+      "right_leg": "Steps forward, then bends to pivot on the ball of the foot",
+      "left_leg": "Stays stationary during the turn, then steps back to bear weight",
+      "torso": "Twists to face the opposite direction during the turn"
+    }
+  },
+  {
+    "id": "M02797",
+    "caption": "A human performs a 90°, a 180° and a 360° counter counterclockwise jump.",
+    "part_descriptions": {
+      "right_arm": "Swings freely in circles during jumps",
+      "left_arm": "Swings freely in circles during jumps",
+      "right_leg": "Bends at knee and swings backward during 90° jump, bends at hip and swings backward during 180° and 360° jumps",
+      "left_leg": "Bends at knee and swings backward during 90° jump, bends at hip and swings backward during 180° and 360° jumps",
+      "torso": "Twists and turns during jumps"
+    }
+  },
+  {
+    "id": "M02904",
+    "caption": "A person is slowly and concentrated walking up a little inclination.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Bending at the knee, lifting foot upwards",
+      "left_leg": "Bending at the knee, lifting foot upwards",
+      "torso": "Leaning slightly forward, maintaining balance"
+    }
+  },
+  {
+    "id": "M02922",
+    "caption": "Someone plays hopscotch.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and backward to maintain balance",
+      "left_arm": "Swings forward and backward to maintain balance",
+      "right_leg": "Hops forward and then back to the starting position",
+      "left_leg": "Hops forward and then back to the starting position",
+      "torso": "Bends slightly at the waist while hopping"
+    }
+  },
+  {
+    "id": "M02940",
+    "caption": "A human crouches down and searches the floor around her current location.",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow and resting on the knee",
+      "left_arm": "Hanging loosely at the side",
+      "right_leg": "Bent at the knee and touching the ground",
+      "left_leg": "Bent at the knee and slightly off the ground",
+      "torso": "Leaning forward with rounded back"
+    }
+  },
+  {
+    "id": "M02947",
+    "caption": "A human  is picking something up",
+    "part_descriptions": {
+      "right_arm": "Bending at the elbow and reaching out",
+      "left_arm": "Hanging relaxed at the side",
+      "right_leg": "Standing firm on the ground",
+      "left_leg": "Standing firm on the ground",
+      "torso": "Leaning slightly forward"
+    }
+  },
+  {
+    "id": "M03009",
+    "caption": "A person uses an axe.",
+    "part_descriptions": {
+      "right_arm": "Holds the axe with a firm grip",
+      "left_arm": "Remains free to maintain balance",
+      "right_leg": "Stands firmly on the ground",
+      "left_leg": "Supports the body and maintains balance",
+      "torso": "Bends slightly forward to apply force"
+    }
+  },
+  {
+    "id": "M03155",
+    "caption": "A person shakes the bent arms and the head like an eating chicken.",
+    "part_descriptions": {
+      "right_arm": "Bent and shaken in a chicken-like motion",
+      "left_arm": "Bent and shaken in a chicken-like motion",
+      "right_leg": "Undefined",
+      "left_leg": "Undefined",
+      "torso": "Head shaken side to side like a chicken"
+    }
+  },
+  {
+    "id": "M03227",
+    "caption": "A person who knocks at a wall with both hands.",
+    "part_descriptions": {
+      "right_arm": "Holding right hand flat against the wall, knocks with it.",
+      "left_arm": "Holding left hand flat against the wall, knocks with it.",
+      "right_leg": "Stands straight with weight on right foot.",
+      "left_leg": "Stands straight with weight on left foot.",
+      "torso": "Leans slightly forward, applying force with both arms."
+    }
+  },
+  {
+    "id": "M03232",
+    "caption": "The person performs a careful step forward of about 0.5 meters starting with the left leg",
+    "part_descriptions": {
+      "right_arm": "Hangs relaxed at side",
+      "left_arm": "Swings forward to balance",
+      "right_leg": "Stays in place",
+      "left_leg": "Takes a step forward, 0.5 meters",
+      "torso": "Leans slightly forward"
+    }
+  },
+  {
+    "id": "M03262",
+    "caption": "A human performs a 45° side step to the front, back and front again.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and then back in sync with leg movement",
+      "left_arm": "Swings forward and then back in sync with leg movement",
+      "right_leg": "Steps 45 degrees to the front, then back to the starting position, and then 45 degrees to the front again",
+      "left_leg": "Steps 45 degrees to the front, then back to the starting position, and then 45 degrees to the front again",
+      "torso": "Rotates slightly with each step, maintaining balance"
+    }
+  },
+  {
+    "id": "M03276",
+    "caption": "A person jumps forward.",
+    "part_descriptions": {
+      "right_arm": "Swings forward for balance",
+      "left_arm": "Swings forward for momentum",
+      "right_leg": "Bends at the knee and pushes off the ground",
+      "left_leg": "Bends at the knee and swings forward",
+      "torso": "Leans slightly forward before jumping"
+    }
+  },
+  {
+    "id": "M03284",
+    "caption": "A person is doing a diagonal step approximately 30 centimeters to the left and front starting with his right foot.",
+    "part_descriptions": {
+      "right_arm": "Swings forward and slightly to the left",
+      "left_arm": "Hangs relaxed at side",
+      "right_leg": "Moves diagonally forward and left, lifting off the ground",
+      "left_leg": "Steps forward and left, touching the ground",
+      "torso": "Leans slightly forward and to the left"
+    }
+  },
+  {
+    "id": "M03290",
+    "caption": "A human turns 360° rightwards while jumping in the air.",
+    "part_descriptions": {
+      "right_arm": "Moving up and out to the side as the human turns in the air",
+      "left_arm": "Moving up and out to the front as the human turns 360° rightwards",
+      "right_leg": "Raised and extended to the side as the human jumps and turns",
+      "left_leg": "Bent at the knee and swung behind as the human turns in the air",
+      "torso": "Twisting and turning 360° to the right while in the air"
+    }
+  },
+  {
+    "id": "M03365",
+    "caption": "A person's feet are dragged forward so he falls down on his back and stays lying.",
+    "part_descriptions": {
+      "right_arm": "Hanging loosely at his side",
+      "left_arm": "Hanging loosely at his side",
+      "right_leg": "Dragged forward, bent at the knee",
+      "left_leg": "Dragged forward, bent at the knee",
+      "torso": "Lying flat on his back"
+    }
+  },
+  {
+    "id": "M03419",
+    "caption": "A person is slowly walking forward with the arms swinging a bit.",
+    "part_descriptions": {
+      "right_arm": "Moving in a swinging motion",
+      "left_arm": "Moving in a swinging motion",
+      "right_leg": "Stepping forward slowly",
+      "left_leg": "Stepping forward slowly",
+      "torso": "Maintaining an upright position"
+    }
+  },
+  {
+    "id": "M03462",
+    "caption": "A human dances.",
+    "part_descriptions": {
+      "right_arm": "Moving in rhythmic patterns",
+      "left_arm": "Swaying and moving in rhythm",
+      "right_leg": "Bending and straightening",
+      "left_leg": "Bending and straightening",
+      "torso": "Twisting and turning, moving with the rhythm"
+    }
+  },
+  {
+    "id": "M03480",
+    "caption": "A person is running.",
+    "part_descriptions": {
+      "right_arm": "Swinging forward",
+      "left_arm": "Swinging forward",
+      "right_leg": "Moving forward quickly",
+      "left_leg": "Moving forward quickly",
+      "torso": "Bouncing up and down"
+    }
+  },
+  {
+    "id": "M03537",
+    "caption": "A person walks an eight.",
+    "part_descriptions": {
+      "right_arm": "Swinging naturally at side",
+      "left_arm": "Swinging naturally at side",
+      "right_leg": "Moving forward with each step",
+      "left_leg": "Moving forward with each step",
+      "torso": "Moving forward with a slight bend at waist"
+    }
+  },
+  {
+    "id": "M03546",
+    "caption": "A person agressively walks in an 8.",
+    "part_descriptions": {
+      "right_arm": "Swinging forcefully forward and backward",
+      "left_arm": "Swinging forcefully forward and backward in sync",
+      "right_leg": "Striding aggressively forward",
+      "left_leg": "Striding aggressively forward in sync",
+      "torso": "Leaning slightly forward with clenched fists"
+    }
+  },
+  {
+    "id": "M03631",
+    "caption": "The person does a 360 counterclockwise jump",
+    "part_descriptions": {
+      "right_arm": "Swings out to the side and then up during the jump",
+      "left_arm": "Swings out to the side and then up during the jump",
+      "right_leg": "Lifts off the ground and rotates counterclockwise",
+      "left_leg": "Lifts off the ground and rotates counterclockwise",
+      "torso": "Twists and turns as the body completes the 360 degree jump"
+    }
+  },
+  {
+    "id": "M03682",
+    "caption": "a human runs forward",
+    "part_descriptions": {
+      "right_arm": "Swinging forward for balance",
+      "left_arm": "Swinging forward for momentum",
+      "right_leg": "Pushing off the ground",
+      "left_leg": "Bending and swinging forward",
+      "torso": "Leaning slightly forward"
+    }
+  },
+  {
+    "id": "M03708",
+    "caption": "baby crawling to the front",
+    "part_descriptions": {
+      "right_arm": "Bent at the elbow, reaching forward",
+      "left_arm": "Bent at the elbow, supporting the weight of the body",
+      "right_leg": "Bent at the knee, ready to push off",
+      "left_leg": "Bent at the knee, in contact with the floor",
+      "torso": "Leaning forward, moving towards the front"
+    }
+  },
+  {
+    "id": "M03722",
+    "caption": "A person lifts something up using two hands but without bending their knees.",
+    "part_descriptions": {
+      "right_arm": "Raising an object upward",
+      "left_arm": "Assisting in lifting the object",
+      "right_leg": "Straight and stable, not bending",
+      "left_leg": "Straight and stable, not bending",
+      "torso": "Maintaining an upright position"
+    }
+  },
+  {
+    "id": "M03732",
+    "caption": "A person takes a couple of forward steps swaying, turns around and walks back.",
+    "part_descriptions": {
+      "right_arm": "Swinging slightly to maintain balance",
+      "left_arm": "Swinging slightly to maintain balance",
+      "right_leg": "Taking a forward step, then another",
+      "left_leg": "Taking a forward step, then another",
+      "torso": "Swaying slightly while turning around"
+    }
+  },
+  {
+    "id": "M03813",
+    "caption": "a human walks slowly while bonding forward",
+    "part_descriptions": {
+      "right_arm": "Swinging slowly forward and slightly bent at the elbow",
+      "left_arm": "Swinging slowly forward and slightly bent at the elbow",
+      "right_leg": "Stepping forward with heel touching the ground first",
+      "left_leg": "Bending at the knee and lifting to take the next step",
+      "torso": "Leaning slightly forward with a relaxed posture"
+    }
+  },
+  {
+    "id": "M03817",
+    "caption": "A person is walking slowly and strongly bent over forward while repeatedly dragging his arms to his hip.",
+    "part_descriptions": {
+      "right_arm": "Slowly swinging arm inward towards hip",
+      "left_arm": "Slowly swinging arm inward towards hip",
+      "right_leg": "Steady, forward step",
+      "left_leg": "Steady, forward step",
+      "torso": "Bent forward with slight swaying motion"
+    }
+  },
+  {
+    "id": "M03832",
+    "caption": "Someonewho  makes a big stept to the left-front.",
+    "part_descriptions": {
+      "right_arm": "Swings even with body, not involved in stepping",
+      "left_arm": "Swings forward to counterbalance the step",
+      "right_leg": "Takes a big step to the left-front",
+      "left_leg": "Stands still or moves slightly to maintain balance",
+      "torso": "Leans slightly to the right while stepping with left leg"
+    }
+  },
+  {
+    "id": "M03877",
+    "caption": "A person jumps and rotates 90 degrees to the right while in flight.",
+    "part_descriptions": {
+      "right_arm": "Swinging out to the side",
+      "left_arm": "Swinging behind the body",
+      "right_leg": "Bent at the knee, extended out",
+      "left_leg": "Bent at the knee, drawn up",
+      "torso": "Twisting and turning to the right"
+    }
+  },
+  {
+    "id": "M03899",
+    "caption": "A person makes moves like bouncing a basketball and throwing it to a basket.",
+    "part_descriptions": {
+      "right_arm": "Swings down and then up to bounce a basketball",
+      "left_arm": "Swings down and then up to bounce a basketball",
+      "right_leg": "Bends slightly to prepare for bouncing the ball",
+      "left_leg": "Bends slightly to prepare for bouncing the ball",
+      "torso": "Leans forward slightly during the basketball move"
+    }
+  }
+]
