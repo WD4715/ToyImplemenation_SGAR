@@ -1,8 +1,6 @@
 # SGAR: Structural Generative Augmentation for 3D Human Motion Retrieval
 
-A PyTorch implementation of contrastive learning for 3D human motion retrieval
-with part-level structural understanding using **SGAR (Structural Generative Augmentation)**.
-
+A PyTorch implementation of contrastive learning for 3D human motion retrieval with part-level structural understanding using GAR (Generative Augmentation with Retrieval).
 
 ##  Table of Contents
 
@@ -179,7 +177,7 @@ Each statistic file is a 1D array where the dimension equals `J * 3` (number of 
 
 ##  Installation
 
-### Requirements
+### 1. Install Requirements
 
 ```bash
 # Python 3.8+
@@ -189,12 +187,28 @@ pip install numpy matplotlib tqdm
 pip install scikit-learn  # For t-SNE visualization
 ```
 
-### MotionDiffuse Dependencies
+### 2. Clone MotionDiffuse (Required)
 
-This project requires the MotionDiffuse transformer backbone. Place the checkpoint at:
+SGAR uses the **MotionDiffuse MotionTransformer backbone**.  
+You must clone the MotionDiffuse repository as an external dependency.
+
+```bash
+git clone https://github.com/ChenFengYe/MotionDiffuse.git
+```
+
+**Important Notes**:
+- MotionDiffuse is used **only as a backbone encoder**
+- **No diffusion sampling** is performed in this project
+- We only use the `MotionTransformer` architecture for motion encoding
+
+### 3. Download MotionDiffuse Checkpoint
+
+Place the pretrained checkpoint at:
 ```
 MotionDiffuse/checkpoints/humanml_trans_dec_512_bert/model000600000.pt
 ```
+
+You can download it from the [MotionDiffuse repository](https://github.com/ChenFengYe/MotionDiffuse#pretrained-models).
 
 ##  Usage
 
@@ -337,7 +351,7 @@ L_part = Σ_p SoftContrastive(z_motion_part_p, z_text_part_p)
 L_total = L_global + λ_part * L_part
 ```
 
-## 🎓 Training Features
+##  Training Features
 
 ### 1. Gradient Accumulation
 ```bash
@@ -443,7 +457,25 @@ Set ID width manually:
 --id_width 5  # Default: auto-detect from folder names
 ```
 
-##  Code Structure
+##  Troubleshooting
+
+### Empty Dataset After Filtering
+
+**Problem**: `train_dataset is empty after filtering`
+
+**Solutions**:
+1. Check ID format matching:
+   ```python
+   # In dataset debug output:
+   # - folder ids example: ['00000', '00001', ...]
+   # - gar ids example: ['00000', '00001', ...]
+   ```
+2. Ensure JSON IDs match folder names
+3. Use `--prefer_txt_split` if you have train.txt/val.txt
+4. Check that all required `.npy` files exist in each folder
+
+
+## 📚 Code Structure
 
 ```
 .
@@ -460,3 +492,23 @@ Set ID width manually:
 2. **Gradient Accumulation**: Increase effective batch size without OOM
 3. **Freeze Backbone**: `--freeze_backbone` for faster iterations
 4. **Adjust Part Loss Weight**: `--lambda_part 0.5` if part loss dominates
+
+##  Citation
+
+If you use this code, please cite:
+
+```bibtex
+@article{sgar2025,
+  title={SGAR: Structural Generative Augmentation for 3D Human Motion Retrieval},
+  author={Your Name},
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  year={2025}
+}
+```
+
+
+##  Acknowledgments
+
+- MotionDiffuse for the transformer backbone
+- CLIP for text encoding
+- GAR for soft contrastive learning methodology
